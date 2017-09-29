@@ -1,0 +1,232 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-name="Afrique Media" tvg-logo="http://1.bp.blogspot.com/--VHC5kF57y8/VLsbhkNP4rI/AAAAAAAAAIg/-SjUfCZVxoY/s1600/1-1416787882-AfriqueMedia-2.png",Afrique Media
+http://strhls.streamakaci.tv/str_afm_afm/str_afm_multi/str_afm_afm/str_afm_afm_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTI 1" tvg-logo="http://regardscroises.ivoire-blog.com/media/00/00/1357824147.jpg",RTI 1
+http://185.59.221.143:1935/edge/rti1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTI 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/RTI_2.jpg",RTI 2
+http://185.59.221.143:1935/edge/rti2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV5 Monde Amerique Latine" tvg-logo="http://senderlogos.images.dvbdata.com/302x190_w/260.png",TV5 Monde Amerique Latine
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+
+#EXTINF:-1 tvg-name="France 24" tvg-logo="http://manager.ndasat.pro/picons/France24.png",France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-name="BFM TV" tvg-logo="http://manager.ndasat.pro/picons/1_0_19_206D_432_1_C00000_0_0_0.png",BFM TV
+http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
+
+#EXTINF:-1 tvg-name="TV5 Monde Europe" tvg-logo="http://senderlogos.images.dvbdata.com/302x190_w/260.png",TV5 Monde Europe
+http://dvb1.swh.gemedis.net:8003/TV5
+
+#EXTINF:-1 tvg-name="Canal Savoir" tvg-logo="https://www.mcgill.ca/science/files/science/channels/image/canal-savoir-logo_0.png",Canal Savoir
+http://stream.canalsavoir.tv/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-name="NRJ Hits TV" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kabel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kabel_eins_Logo_08.svg/2000px-Kabel_eins_Logo_08.svg.png",Kabel 1
+http://dvb1.swh.gemedis.net:8005/KABEL1
+
+#EXTINF:-1 tvg-name="Das Erste" tvg-logo="http://www.daserste.de/specials/ueber-uns/logo-das-erste-108~_v-varl_94f212.jpg",Das Erste
+https://daserstelive-lh.akamaihd.net/i/daserste_de@38086/master.m3u8
+
+#EXTINF:-1 tvg-name="Deutsche Welle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png",Deutsche Welle
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+
+#EXTINF:-1 tvg-name="3 Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3sat-Logo.svg/775px-3sat-Logo.svg.png",3 Sat
+https://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
+
+#EXTINF:-1 tvg-name="ARD Alpha" tvg-logo="https://cdn.pixabay.com/photo/2016/03/19/17/55/ard-1267087_960_720.png",ARD Alpha
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+
+#EXTINF:-1 tvg-name="Arte Deutsch" tvg-logo="http://manager.ndasat.pro/picons/ARTE.png",Arte Deutsch
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+
+#EXTINF:-1 tvg-name="Pro 7" tvg-logo="http://blob-europe.com/wp-content/uploads/2014/11/Pro7-logo.png",Pro 7
+http://dvb1.swh.gemedis.net:8005/Pro7
+
+#EXTINF:-1 tvg-name="Pro 7 Maxx" tvg-logo="http://www.vas-systeme.de/blog/wp-content/uploads/2013/07/pro7maxx.jpg",Pro 7 Maxx
+http://dvb1.swh.gemedis.net:8005/Pro7_Maxx
+
+#EXTINF:-1 tvg-name="Kika" tvg-logo="http://www.hd-sender.com/files/2013/05/kika-hd-logo-300x120.png",Kika
+http://dvb3.swh.gemedis.net:8001/KiKa
+
+#EXTINF:-1 tvg-name="VOX" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/ac/VOX_Logo.png",VOX
+http://dvb3.swh.gemedis.net:8002/VOX
+
+#EXTINF:-1 tvg-name="ZDF" tvg-logo="http://store2.up-00.com/2016-12/1482100213031.png",ZDF
+http://dvb3.swh.gemedis.net:8001/ZDF
+
+#EXTINF:-1 tvg-name="ZDF Info" tvg-logo="http://pix4.qmde.de/www.quotenmeter.de/pics/zdfinfo/logo/zdfinfo_ox__W1000xh0.jpg",ZDF Info
+http://dvb3.swh.gemedis.net:8001/ZDF.info
+
+#EXTINF:-1 tvg-name="ZDF Neo" tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/659.png",ZDF Neo
+http://dvb3.swh.gemedis.net:8001/ZDF.neo
+
+#EXTINF:-1 tvg-name="BR" tvg-logo="http://www.fonoforum.de/fileadmin/user_upload/slider/16-06-07-620-BR-Logo-qu.jpg",BR
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+
+#EXTINF:-1 tvg-name="HR" tvg-logo="http://programm.ard.de/files/265/2007/2778/28108.jpg",HR
+http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+
+#EXTINF:-1 tvg-name="MDR Sachsen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Mdr_SACHSEN_Logo_2017.png",MDR Sachsen
+http://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR Hamburg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png",NDR Hamburg
+http://ndrfs.ndr.de/i/ndrfs_hh@119223/master.m3u8
+
+#EXTINF:-1 tvg-name="ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/2000px-One_TV_Logo.svg.png",ONE
+http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
+
+#EXTINF:-1 tvg-name="Phoenix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Phoenix_Logo_2012.svg/1200px-Phoenix_Logo_2012.svg.png",Phoenix
+https://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8
+
+#EXTINF:-1 tvg-name="Rbb Berlin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/RBB_Fernsehen-Logo.svg/1280px-RBB_Fernsehen-Logo.svg.png",Rbb Berlin
+https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
+
+#EXTINF:-1 tvg-name="SR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/SR_Fernsehen_HD_Logo.png",SR
+http://fs.live.sr.de/i/sr_universal02@107595/master.m3u8
+
+#EXTINF:-1 tvg-name="SWR" tvg-logo="https://www.swr.de/-/id=8122392/property=full/25s6pw/SWR%20Unternehmensmarke,%20Logo.jpg",SWR
+https://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
+
+#EXTINF:-1 tvg-name="Tagesshau 24" tvg-logo="https://upload.wikimedia.org/wikipedia/de/3/36/Tagesschau_logo.png",Tagesshau 24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2012/04/neues-wdr-logo.jpg",WDR
+http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8
+
+#EXTINF:-1 tvg-name="1-2-3 TV" tvg-logo="https://4.bp.blogspot.com/-BAcecuCPkK4/VGjDw1zsTdI/AAAAAAAACeE/eSgTcT9nY7Y/s1600/123tv.jpg",1-2-3 TV
+http://123tv.cdn.ses-ps.com/index.m3u8
+
+#EXTINF:-1 tvg-name="Servus TV" tvg-logo="https://pbs.twimg.com/profile_images/587888784945086464/3aMl6Uyt.jpg",ServusTV
+http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
+
+#EXTINF:-1 tvg-name="Bayern" tvg-logo="http://www.horizont.net/news/media/14/TV-Bayern-132214-detailp.jpeg",Bayern
+http://dvb1.swh.gemedis.net:8000/Bayern
+
+#EXTINF:-1 tvg-name="CCTV9_Doku" tvg-logo="http://www.ppntv.com/uploads/allimg/140830/1-140S0220022429.jpg",CCTV9_Doku
+http://dvb1.swh.gemedis.net:8003/CCTV9_Doku
+
+#EXTINF:-1 tvg-name="CCTV_EN" tvg-logo="http://www.ppntv.com/uploads/allimg/140830/1-140S0220022429.jpg",CCTV_EN
+http://dvb1.swh.gemedis.net:8003/CCTV_engl
+
+#EXTINF:-1 tvg-name="CCTV_FR" tvg-logo="http://www.ppntv.com/uploads/allimg/140830/1-140S0220022429.jpg",CCTV_FR
+http://dvb1.swh.gemedis.net:8003/CCTV_fr
+
+#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://www.mansworld.com/media/swi/brands/47/logo/logo_ch_de.jpg",DMAX
+http://dvb3.swh.gemedis.net:8006/DMAX
+
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="http://ua.ejo-online.eu/wp-content/uploads/2014/11/euronews.png",Euronews
+http://dvb3.swh.gemedis.net:8002/Euronews
+
+#EXTINF:-1 tvg-name="Hessen" tvg-logo="https://www.mediathek-hessen.de/image/templates/standardV2/rtl_preview.jpg",Hessen
+http://dvb1.swh.gemedis.net:8000/Hessen
+
+#EXTINF:-1 tvg-name="N24" tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/175.png",N24
+http://dvb1.swh.gemedis.net:8005/N24
+
+#EXTINF:-1 tvg-name="RTL" tvg-logo="http://www.business-on.de/dateien/bilder/rtl_logo_2012.png",RTL
+http://dvb3.swh.gemedis.net:8002/RTL
+
+#EXTINF:-1 tvg-name="RTL 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL2_Logo.svg/1000px-RTL2_Logo.svg.png",RTL 2
+http://dvb3.swh.gemedis.net:8002/RTL2
+
+#EXTINF:-1 tvg-name="Super RTL" tvg-logo="http://store2.up-00.com/2016-12/1482099146351.png",Super RTL
+http://dvb3.swh.gemedis.net:8002/SuperRTL
+
+#EXTINF:-1 tvg-name="RT English" tvg-logo="https://pbs.twimg.com/profile_images/519079377003229184/Ksltcjp_.png",RT English
+http://dvb1.swh.gemedis.net:8003/RT_English
+
+#EXTINF:-1 tvg-name="SAT.1" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2017/10/sat1-logo-rgb-210x131.jpg",SAT.1
+http://dvb1.swh.gemedis.net:8005/SAT.1
+
+#EXTINF:-1 tvg-name="SAT.1 Gold" tvg-logo="http://www.prosiebensat1.com/uploads/2015/11/04/sat1_47l_sat1gold.jpg",SAT.1 Gold
+http://dvb1.swh.gemedis.net:8005/SAT.1_Gold
+
+#EXTINF:-1 tvg-name="Suedwest-Baden" tvg-logo="http://www.einstiegberuf.de/wp-content/uploads/2017/03/badenTV_logo_RGB_72dpi_Internet1.jpg",Suedwest-Baden
+http://dvb1.swh.gemedis.net:8000/Suedwest-Baden
+
+#EXTINF:-1 tvg-name="Tele 5" tvg-logo="http://4.bp.blogspot.com/-VqeD6H2eSDM/URQHRxw6HdI/AAAAAAAAQOk/WfZzcBnFFY0/s400/HBO_MakeRoom_Black.jpg",Tele 5
+http://dvb3.swh.gemedis.net:8006/Tele5
+
+#EXTINF:-1 tvg-name="Eurosport" tvg-logo="http://2.bp.blogspot.com/-TwuQiWWA31g/TWJzc46CKNI/AAAAAAAABak/tNNC0x0eGfI/s1600/eurosport_softformobiles5.png",Eurosport
+http://dvb3.swh.gemedis.net:8002/Eurosport
+
+#EXTINF:-1 tvg-name="Sport 1" tvg-logo="http://www.aok-traditionsmasters.de/wp-content/uploads/2012/05/Logo-SPORT1.png",Sport 1
+http://dvb3.swh.gemedis.net:8006/Sport1
+
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg",Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+
+#EXTINF:-1 tvg-name="Chelsea TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/ChelseaTVLogo.png",Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+
+#EXTINF:-1 tvg-name="BT Sport 1" tvg-logo="https://bt-sport-business-prod.s3.amazonaws.com/wp-content/uploads/2016/07/bt-sport-11.png",BT Sport 1
+http://185.53.163.205:2700
+
+#EXTINF:-1 tvg-name="BT Sport 2" tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p2201308011806.png",BT Sport 2
+http://185.53.163.205:2506
+
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://www.comm.lsa.umich.edu/blog/wp-content/uploads/2011/03/aljazeera_logo.jpg",Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/images/tv-images/2015/08/03/Headline_BBC.png",BBC World News
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://media.glassdoor.com/sqll/144492/abc-news-squarelogo.png",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="http://www.oursoil.org/wp-content/uploads/2016/12/8356634_orig.jpg",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://de.magine.com/app/uploads/2016/04/ComedyCentral_HD.jpg",Comedy Central
+http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
+
+#EXTINF:-1 tvg-name="Preach The World" tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2016/08/Preach-The-Word-Worldwide-Network-TV-PTWWN-TV.jpg",Preach The World
+https://edge-1136-us-la.filmon.com/live/5504.low.stream/playlist.m3u8?id=0ad5aac39bb13fbea0f41df3db795265c0c4dc52fc703123bfa4cd3ee649522f7fc9735e67a8548ab80546d57a2fd9b205432c61854351db47935de30f9beb4cd7e78e257905ec838aa4d8416c7fd6a566d161c32b5051b2eb1134e202de075779df870f8d4560b31fb07268f0b7dbddba3497d4214c6756f9c54f2640e186c29e25d723ff050ee2461cc060cfbce4d5d44334ad2931554f
+
+#EXTINF:-1 tvg-name="Catholic TV" tvg-logo="https://www.thebostonpilot.com/news/20140822/images/700x450_Pilot_13106.jpg",Catholic TV
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+
+#EXTINF:-1 tvg-name="Babestation 1" tvg-logo="http://i.imgur.com/dUhd2a3.png",Babestation 1
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Babestation 2" tvg-logo="http://i.imgur.com/dUhd2a3.png",Babestation 2
+http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Babestation 3" tvg-logo="http://i.imgur.com/dUhd2a3.png",Babestation 3
+http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder71/playlist.m3u8
+
+#EXTINF:-1 tvg-name"Adult VOD 1" tvg-logo="http://i.imgur.com/wauTPQN.png", Adult VOD 1
+http://content2.sexforsure.com/2013/07/02/12/Video.mp4
+
+#EXTINF:-1 tvg-name"Adult VOD 2" tvg-logo="http://i.imgur.com/h9aRgeG.png", Adult VOD 2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+
+#EXTINF:-1 tvg-name"Adult VOD 3" tvg-logo="http://i.imgur.com/h9aRgeG.png", Adult VOD 3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+
+#EXTINF:-1 tvg-name"Adult VOD 4" tvg-logo="http://i.imgur.com/fPx3JtD.png", Adult VOD 4
+http://static.brazzers.com/scenes/3306/180sec.flv
+
+#EXTINF:-1 tvg-name"Adult VOD 5" tvg-logo="http://i.imgur.com/fPx3JtD.png", Adult VOD 5
+http://static.brazzers.com/scenes/3475/180sec.flv
+
+#EXTINF:-1 tvg-name"Adult VOD 6" tvg-logo="http://i.imgur.com/h9aRgeG.png", Adult VOD 6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+
+#EXTINF:-1 tvg-name"Adult VOD 7" tvg-logo="http://i.imgur.com/h9aRgeG.png", Adult VOD 7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+
+#EXTINF:-1 tvg-name"Adult VOD 8" tvg-logo="http://i.imgur.com/h9aRgeG.png", Adult VOD 8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+
+#EXTINF:-1 tvg-name"Adult VOD 9" tvg-logo="http://i.imgur.com/jSTMWXS.png", Adult VOD 9
+http://anysex.com/get_file/1/e342bd6ca9c238328a746729169bf76d/202000/202824/202824.mp4/
+
+#EXTINF:-1 tvg-name"Adult VOD 10" tvg-logo="http://i.imgur.com/jSTMWXS.png", Adult VOD 10
+http://anysex.com/get_file/1/5173e1412a034da36e71f85ed0ad1846/203000/203201/203201.mp4/
