@@ -1,5 +1,8 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-name="Klar TV" tvg-logo="https://i.imgur.com/GD3yeIR.jpg",Klar TV
+https://www.facebook.com/237KlarTV/
+
 #EXTINF:-1 tvg-name="Afrique Media" tvg-logo="http://1.bp.blogspot.com/--VHC5kF57y8/VLsbhkNP4rI/AAAAAAAAAIg/-SjUfCZVxoY/s1600/1-1416787882-AfriqueMedia-2.png",Afrique Media
 http://strhls.streamakaci.tv/str_afm_afm/str_afm_multi/str_afm_afm/str_afm_afm_360p/playlist.m3u8
 
@@ -174,6 +177,9 @@ http://185.53.163.205:2506
 #EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://www.comm.lsa.umich.edu/blog/wp-content/uploads/2011/03/aljazeera_logo.jpg",Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
+#EXTINF:-1 tvg-name="Catholic TV" tvg-logo="https://www.thebostonpilot.com/news/20140822/images/700x450_Pilot_13106.jpg",Catholic TV
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/images/tv-images/2015/08/03/Headline_BBC.png",BBC World News
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 
@@ -185,12 +191,6 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
 #EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://de.magine.com/app/uploads/2016/04/ComedyCentral_HD.jpg",Comedy Central
 http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
-
-#EXTINF:-1 tvg-name="Preach The World" tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2016/08/Preach-The-Word-Worldwide-Network-TV-PTWWN-TV.jpg",Preach The World
-https://edge-1136-us-la.filmon.com/live/5504.low.stream/playlist.m3u8?id=0ad5aac39bb13fbea0f41df3db795265c0c4dc52fc703123bfa4cd3ee649522f7fc9735e67a8548ab80546d57a2fd9b205432c61854351db47935de30f9beb4cd7e78e257905ec838aa4d8416c7fd6a566d161c32b5051b2eb1134e202de075779df870f8d4560b31fb07268f0b7dbddba3497d4214c6756f9c54f2640e186c29e25d723ff050ee2461cc060cfbce4d5d44334ad2931554f
-
-#EXTINF:-1 tvg-name="Catholic TV" tvg-logo="https://www.thebostonpilot.com/news/20140822/images/700x450_Pilot_13106.jpg",Catholic TV
-http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
 
 #EXTINF:-1 tvg-name="Babestation 1" tvg-logo="http://i.imgur.com/dUhd2a3.png",Babestation 1
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
