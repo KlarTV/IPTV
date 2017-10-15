@@ -54,6 +54,9 @@ http://dvb1.swh.gemedis.net:8005/Pro7_Maxx
 #EXTINF:-1 tvg-name="Kika" tvg-logo="http://www.hd-sender.com/files/2013/05/kika-hd-logo-300x120.png",Kika
 http://dvb3.swh.gemedis.net:8001/KiKa
 
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/2000px-2015_Disney_Channel_logo.svg.png",Disney Channel
+https://delivestream-lh.akamaihd.net/i/live_1@320996/master.m3u8?hdnts=st=1508100994~exp=1508101294~acl=/i/live_1@320996*~hmac=6b4cedb9ccdae68ada231b0104f923637834ae5c50df12021de1448e7446c096
+
 #EXTINF:-1 tvg-name="VOX" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/ac/VOX_Logo.png",VOX
 http://dvb3.swh.gemedis.net:8002/VOX
 
