@@ -55,7 +55,7 @@ http://dvb1.swh.gemedis.net:8005/Pro7_Maxx
 http://dvb3.swh.gemedis.net:8001/KiKa
 
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/2000px-2015_Disney_Channel_logo.svg.png",Disney Channel
-https://delivestream-lh.akamaihd.net/i/live_1@320996/master.m3u8?hdnts=st=1508101613~exp=1508101913~acl=/i/live_1@320996*~hmac=cd68f78d0f02ecbd007f0c9ba4d202f581b100eedef76495efd58af1a2bc014c
+https://delivestream-lh.akamaihd.net/i/live_1@320996/master.m3u8?hdnts=st=1508102290~exp=1508102590~acl=/i/live_1@320996*~hmac=b21ed7830a90851b39a6512c97f9ad66e986125502bc1f1cbfc8b8cb4c525d35
 
 #EXTINF:-1 tvg-name="VOX" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/ac/VOX_Logo.png",VOX
 http://dvb3.swh.gemedis.net:8002/VOX
