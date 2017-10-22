@@ -159,11 +159,23 @@ http://dvb3.swh.gemedis.net:8002/Eurosport
 #EXTINF:-1 tvg-name="Sport 1" tvg-logo="http://www.aok-traditionsmasters.de/wp-content/uploads/2012/05/Logo-SPORT1.png",Sport 1
 http://dvb3.swh.gemedis.net:8006/Sport1
 
+#EXTINF:-1 tvg-name="Sky Sport News" tvg-logo="http://www.aptitudeforsoccer.com/wp-content/uploads/2014/09/sky-sports-news-UK-logo.png",Sky Sport News
+https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
+
+#EXTINF:-1 tvg-name="Abu Dhabi Sports" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 2" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 2
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+
 #EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
 #EXTINF:-1 tvg-name="Chelsea TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/ChelseaTVLogo.png",Chelsea TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MU TV" tvg-logo="https://i.imgur.com/ZBo8N7o.jpg",MU TV
+http://tglmutvh-i.akamaihd.net/hls/live/514453/mutv_stb/01.m3u8
 
 #EXTINF:-1 tvg-name="BT Sport 1" tvg-logo="https://bt-sport-business-prod.s3.amazonaws.com/wp-content/uploads/2016/07/bt-sport-11.png",BT Sport 1
 http://185.53.163.205:2700
@@ -171,11 +183,17 @@ http://185.53.163.205:2700
 #EXTINF:-1 tvg-name="BT Sport 2" tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p2201308011806.png",BT Sport 2
 http://185.53.163.205:2506
 
+#EXTINF:-1 tvg-name="MLB Network" tvg-logo="https://i.imgur.com/G9VKlxx.png",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
 #EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://www.comm.lsa.umich.edu/blog/wp-content/uploads/2011/03/aljazeera_logo.jpg",Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
 #EXTINF:-1 tvg-name="Catholic TV" tvg-logo="https://www.thebostonpilot.com/news/20140822/images/700x450_Pilot_13106.jpg",Catholic TV
 http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://i.imgur.com/gyP1fmt.png",Comedy Central
+http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
 
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/images/tv-images/2015/08/03/Headline_BBC.png",BBC World News
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
