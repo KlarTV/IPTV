@@ -13,7 +13,7 @@ http://185.59.221.143:1935/edge/rti2/playlist.m3u8
 http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 
 #EXTINF:-1 tvg-name="Afrique Media" tvg-logo="http://1.bp.blogspot.com/--VHC5kF57y8/VLsbhkNP4rI/AAAAAAAAAIg/-SjUfCZVxoY/s640/1-1416787882-AfriqueMedia-2.png",Afrique Media
-http://strhls.streamakaci.tv/str_afm_afm/str_afm_multi/str_afm_afm/str_afm_afm_480p/chunks.m3u8?nimblesessionid=2941464&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE3IDg6MjM6NDMgQU0maGFzaF92YWx1ZT1OSkZpQXZBZHZ3VExzYkNRV2hIWXN3PT0mdmFsaWRtaW51dGVzPTMmc3RybV9sZW49MjU=
+http://strhls.streamakaci.tv/str_afm_afm/str_afm_multi/str_afm_afm/str_afm_afm_480p/chunks.m3u8?nimblesessionid=9344803&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE3IDg6NTk6MTEgQU0maGFzaF92YWx1ZT1ZUlpzYS8za1VSWWxXaWlBZEY3MDJ3PT0mdmFsaWRtaW51dGVzPTMmc3RybV9sZW49MjU=
 
 #EXTINF:-1 tvg-name="Canal 2" tvg-logo="http://camernews-pa2mdds.pa2m.netdna-cdn.com/wp-content/uploads/2015/07/camernews-Canal2-International-1170x480.jpg",Canal 2
 http://canal2-live-p-cdn.hexaglobe.net/f6b9d06882d0bd68b903e218b85f1f62/59f98627/canal2intepri_fre.smil/playlist.m3u8
