@@ -213,6 +213,49 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://de.magine.com/app/uploads/2016/04/ComedyCentral_HD.jpg",Comedy Central
 http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
 
+
+------
+#EXTINF:-1 tvg-name="Free VOD" tvg-logo="https://pbs.twimg.com/profile_images/549575189915111424/QFwJtPI7.png",Free VOD
+https://www.facebook.com/237KlarTV/
+
+#EXTINF:-1,tvg-name= "Universal Soldier" tvg-logo="http://fr.web.img2.acsta.net/medias/nmedia/18/60/08/30/19621120.jpg",Universal Soldier 
+http://www.cdn-1.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL25xYXExdmpwbHouMWZpY2hpZXIuY29tLw==.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-name= "Universal Soldier 2 Le Combat Absolut" tvg-logo="https://media.senscritique.com/media/000000149810/source_big/Universal_Soldier_Le_Combat_absolu.jpg",Universal Soldier 2 Le Combat Absolut
+http://www.cdn-2.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3d3dy50NDExLmxpL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD01NTkzNjE2.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-name= "Universal Soldier 3 Regeneration" tvg-logo="https://moviefull-hd.com/images/2015/10/Watch-Universal-Soldier-Regeneration-2009-Online.jpg",Universal Soldier 3 Regeneration
+http://www.cdn-4.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3d3dy4xc3QtZmlsZXMuY29tL3RnM2h2b2YxcmRsYQ==.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-name= "Universal Soldier 4 Le Jour Du Jugement" tvg-logo="https://www.avoir-alire.com/IMG/jpg/universal-soldier-iv-le-jour-du-jugement-recto-jaquette.jpg",Universal soldier 4 Le Jour Du Jugement
+http://www.cdn-6.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3FqaGIzdS4xZmljaGllci5jb20v.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-name= "The Karate Kid" tvg-logo="https://playadelnacho.files.wordpress.com/2013/08/the-karate-kid-poster-big.jpg",The Karate Kid
+http://www.cdn-3.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3d3dy50NDExLmxpL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD01MTMzNzMx.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-name= "The Karate Kid 2" tvg-logo="https://i.jeded.com/i/the-karate-kid-ii.28883.jpg",The karate kid 2
+http://www.cdn-3.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL2hrMWJiM29wcTEuMWZpY2hpZXIuY29tLw==.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-name= "The Karate Kid 3" tvg-logo="https://i.jeded.com/i/the-karate-kid-iii.28882.jpg",The Karate Kid 3
+http://www.cdn-5.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovLzYzOWtpY2NqZjAuMWZpY2hpZXIuY29tLw==.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-name= "The Karate Kid 4 Miss Karate Kid" tvg-logo="https://media.senscritique.com/media/000012388870/source_big/Miss_Karate_Kid.jpg",The Karate Kid 4 Miss Karate Kid
+http://www.cdn-6.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3VwdG9ib3guY29tL2c4eHJ1amhmdmQ0NQ==.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-name= "Mortal Kombat" tvg-logo="http://fr.web.img3.acsta.net/medias/nmedia/18/67/57/72/18987249.jpg",Mortal Kombat
+http://www.cdn-6.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3d3dy50NDExLmxpL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD01MjA1NTcx.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-name= "Mortal Kombat Destruction Final" tvg-logo="http://papystreaming.com/fr/files/2014/12/Mortal-Kombat-Destruction-finale.jpg",Mortal Kombat Destruction Final
+http://www.cdn-2.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3d3dy50NDExLmxpL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD01MDEwMjg4.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-name= "Street Fighter L'ultime Combat" tvg-logo="http://fr.web.img6.acsta.net/medias/nmedia/18/92/08/82/20179856.jpg",Street Fighter L'ultime Combat
+http://www.cdn-4.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovLzNqa3A3YnMuMWZpY2hpZXIuY29tLw==.smil/playlist.m3u8
+
+
+------
+#EXTINF:-1 tvg-name="Adult Content" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg",Adult Content
+https://www.facebook.com/237KlarTV/
+
 #EXTINF:-1 tvg-name="Babestation 1" tvg-logo="http://i.imgur.com/dUhd2a3.png",Babestation 1
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 
