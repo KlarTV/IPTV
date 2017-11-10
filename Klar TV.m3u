@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-name="Klar TV" tvg-logo="https://i.imgur.com/GD3yeIR.jpg",Klar TV
+#EXTINF:-1 tvg-name="*** Klar TV ***" tvg-logo="https://i.imgur.com/GD3yeIR.jpg",*** Klar TV ***
 https://www.facebook.com/237KlarTV/
 
 #EXTINF:-1 tvg-name="RTI 1" tvg-logo="http://regardscroises.ivoire-blog.com/media/00/00/1357824147.jpg",RTI 1
@@ -215,7 +215,7 @@ http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
 
 
 ------
-#EXTINF:-1 tvg-name="Free VOD" tvg-logo="https://pbs.twimg.com/profile_images/549575189915111424/QFwJtPI7.png",Free VOD
+#EXTINF:-1 tvg-name="*** Free VOD ***" tvg-logo="https://pbs.twimg.com/profile_images/549575189915111424/QFwJtPI7.png",*** Free VOD ***
 https://www.facebook.com/237KlarTV/
 
 #EXTINF:-1,tvg-name= "Universal Soldier" tvg-logo="http://fr.web.img2.acsta.net/medias/nmedia/18/60/08/30/19621120.jpg",Universal Soldier 
@@ -253,7 +253,7 @@ http://www.cdn-4.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovLzNqa3
 
 
 ------
-#EXTINF:-1 tvg-name="Adult Content" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg",Adult Content
+#EXTINF:-1 tvg-name="*** Adult Content (-18) ***" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg",*** Adult Content (-18) ***
 https://www.facebook.com/237KlarTV/
 
 #EXTINF:-1 tvg-name="Babestation 1" tvg-logo="http://i.imgur.com/dUhd2a3.png",Babestation 1
