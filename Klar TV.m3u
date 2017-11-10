@@ -233,7 +233,7 @@ http://www.cdn-6.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3FqaG
 #EXTINF:-1,tvg-name= "The Karate Kid" tvg-logo="https://playadelnacho.files.wordpress.com/2013/08/the-karate-kid-poster-big.jpg",The Karate Kid
 http://www.cdn-3.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3d3dy50NDExLmxpL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD01MTMzNzMx.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name= "The Karate Kid 2" tvg-logo="https://i.jeded.com/i/the-karate-kid-ii.28883.jpg",The karate kid 2
+#EXTINF:-1,tvg-name= "The Karate Kid 2" tvg-logo="https://i.jeded.com/i/the-karate-kid-ii.28883.jpg",The karate Kid 2
 http://www.cdn-3.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL2hrMWJiM29wcTEuMWZpY2hpZXIuY29tLw==.smil/playlist.m3u8
 
 #EXTINF:-1,tvg-name= "The Karate Kid 3" tvg-logo="https://i.jeded.com/i/the-karate-kid-iii.28882.jpg",The Karate Kid 3
