@@ -183,12 +183,6 @@ http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MU TV" tvg-logo="https://i.imgur.com/ZBo8N7o.jpg",MU TV
 http://tglmutvh-i.akamaihd.net/hls/live/514453/mutv_stb/01.m3u8
 
-#EXTINF:-1 tvg-name="BT Sport 1" tvg-logo="https://bt-sport-business-prod.s3.amazonaws.com/wp-content/uploads/2016/07/bt-sport-11.png",BT Sport 1
-http://185.53.163.205:2700
-
-#EXTINF:-1 tvg-name="BT Sport 2" tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p2201308011806.png",BT Sport 2
-http://185.53.163.205:2506
-
 #EXTINF:-1 tvg-name="MLB Network" tvg-logo="https://i.imgur.com/G9VKlxx.png",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
