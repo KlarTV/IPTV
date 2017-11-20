@@ -13,7 +13,7 @@ http://185.59.221.143:1935/edge/rti2/playlist.m3u8
 http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 
 #EXTINF:-1 tvg-name="Canal 2" tvg-logo="http://camernews-pa2mdds.pa2m.netdna-cdn.com/wp-content/uploads/2015/07/camernews-Canal2-International-1170x480.jpg",Canal 2
-http://canal2-live-p-cdn.hexaglobe.net/2081ced03610d3f260cc5027ee437ab5/5a110f6c/canal2intepri_fre.smil/playlist.m3u8
+http://canal2-live-b-cdn.hexaglobe.net/7349a87b51dc1b5de1314a6a10faedda/5a12d6a1/canal2intepri_fre.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV5 Monde Amerique Latine" tvg-logo="http://senderlogos.images.dvbdata.com/302x190_w/260.png",TV5 Monde Amerique Latine
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
@@ -180,9 +180,6 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-name="Chelsea TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/ChelseaTVLogo.png",Chelsea TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MU TV" tvg-logo="https://i.imgur.com/ZBo8N7o.jpg",MU TV
-http://tglmutvh-i.akamaihd.net/hls/live/514453/mutv_stb/01.m3u8
-
 #EXTINF:-1 tvg-name="MLB Network" tvg-logo="https://i.imgur.com/G9VKlxx.png",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
@@ -191,9 +188,6 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 
 #EXTINF:-1 tvg-name="Catholic TV" tvg-logo="https://www.thebostonpilot.com/news/20140822/images/700x450_Pilot_13106.jpg",Catholic TV
 http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
-
-#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://i.imgur.com/gyP1fmt.png",Comedy Central
-http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
 
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/images/tv-images/2015/08/03/Headline_BBC.png",BBC World News
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
@@ -212,69 +206,6 @@ http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
 
 #EXTINF:-1 tvg-name="*** Free VOD ***" tvg-logo="https://pbs.twimg.com/profile_images/549575189915111424/QFwJtPI7.png",*** Free VOD ***
 https://www.facebook.com/237KlarTV/
-
-#EXTINF:-1,tvg-name="All Eyez On Me" tvg-logo="https://bloximages.chicago2.vip.townnews.com/kokomotribune.com/content/tncms/assets/v3/editorial/0/3d/03ded8e8-4f79-11e7-8279-3f0ccc097693/593ea10b42101.image.jpg",All Eyez On Me
-https://c38.vidlox.tv/hls/,oudvgd53jntk2yixv756gd3wdqiqigokepdrtjibmhehugxzovqwmegnojxa,.urlset/master.m3u8
-
-#EXTINF:-1,tvg-name="Nos Patriotes" tvg-logo="http://www.kino-zeit.de/image/l/l101314.jpg",Nos Patriotes
-http://s4.cloudvid.co/zihamgnn2dxjtdyjvvhgs3ll6wfzkbrdvv3jyl47pesrm5goxekwzckxcajq/v.mp4
-
-#EXTINF:-1,tvg-name="Kidnap" tvg-logo="http://farawayentertainment.com/wp-content/uploads/2017/08/Kidnap-movie-new-poster.jpg",Kidnap
-https://1fgqfmx.oloadcdn.net/dl/l/e52IZHd4bddASoQK/9OACq6x3RE4/Kidnap.2017.TRUEFRENCH.BRRip.XviD-PREUMS.Zone-Telechargement.Ws.avi.mp4?mime=true
-
-#EXTINF:-1,tvg-name="Sleepless" tvg-logo="http://is5.mzstatic.com/image/thumb/Video122/v4/a4/48/81/a44881b6-ccdd-bb26-ef87-56f2a55f5e37/source/1200x630bb.jpg",Sleepless
-https://1fiag6j.oloadcdn.net/dl/l/7KVBhuWnLyLkNdY8/caBIE1F9xrM/Sleepless.2017.FRENCH.HDRip.XviD-GZR.www.en-streamingvf.net.avi.mp4?mime=true
-
-#EXTINF:-1, tvg-name="Overdrive" tvg-logo="http://de.web.img3.acsta.net/pictures/17/04/25/09/55/045150.jpg",Overdrive
-https://1fiag0g.oloadcdn.net/dl/l/x7HJbjalEF18R9A_/241VKcNuRdA/Overdrive.2017.FRENCH.HDRiP.www.en-streamingvf.net.avi.mp4?mime=true
-
-#EXTINF:-1, tvg-name="Boys Will Be Boys" tvg-logo="https://pics.filmaffinity.com/onze_jongens-335832951-large.jpg",Boys Will Be Boys
-https://1fhjlpb.oloadcdn.net/dl/l/Lx6Y2PD0RubnOi2i/mePwBvSErR8/Boys.Will.Be.Boys.2016.FRENCH.WEBRip.www.en-streamingvf.net.avi.mp4?mime=true
-
-#EXTINF:-1, tvg-name="Amour Et Préjugés" tvg-logo="http://familyfilms.fr/wp-content/uploads/2017/04/amour-et-pr%C3%A9jug%C3%A9s-584x800-200x300.jpg",Amour Et Préjugés
-https://1fjiw5e.oloadcdn.net/dl/l/ZnA4FLVua5mcwohs/L2blBxhI600/Amours.Et.Prejuges.2016.FRENCH.HDRiP.www.en-streamingvf.net.avi.mp4?mime=true
-
-#EXTINF:-1, tvg-name="The Recall" tvg-logo="https://assets.voxcinemas.com/posters/P_HO00004767.jpg",The Recall
-https://1fjiw61.oloadcdn.net/dl/l/XI1V-MLCBTqunq6l/LicdNtr7o7Y/The.Recall.2017.PROPER.FRENCH.WEBRip.www.en-streamingvf.net.avi.mp4?mime=true
-
-#EXTINF:-1, tvg-name="Goon:Last Of The Enforcers" tvg-logo="https://www.dvdsreleasedates.com/posters/800/G/Goon-Last-of-the-Enforcers-2017-movie-poster.jpg",Goon:Last Of The Enforcers
-https://1fiag6f.oloadcdn.net/dl/l/sPJjrwSFrLt4gxnS/3xUIsZPGPmQ/Goon.Last.of.the.Enforcers.2017.FRENCH..mkv.mp4?mime=true
-
-#EXTINF:-1, tvg-name="3 Aventuriers En Mission Trio" tvg-logo="http://www.torrents9.pe/_pictures/3-aventurier-en-mission-trio-le-film-french-webrip-2017.jpg",3 Aventuriers En Mission Trio
-https://crabapple.fruithosted.net/dl/n/kfZqBxHBHLYqPBjq/scqkasdasenqbqtd/KgAKixwtQnw8TcjOUiVY14ihH0nCoA0ASgn7_ZdVhLHSdPShODBkSUnLJRtrZFZjIR0Ls9bWTGuSxREoNm4S5wXNB65P9dpoeeJW0Hvj2AglhD7CVaG1LlS_Tc5vw9_ckxvG6UXGiaVFe1whUQSG-ZVMn-k1W4QDL_LLpBoSu-wcV-lzDjf1prL3dhBDBE5PyjPiIN7WeAHk-WNFwCcH2ARkyp5EqP7DiJJNqpQp0J1JyaETZxcrSxiXxsNqA4GzDVcM_b2qBPml4IvWoennx0_qbfts2eOXloPc2EVFJ4DZ2WiG9brvxPoA5iC_wAl8ds6dE4ntLIuCpGnJQJRNaaezbjFL8_T4jgC0yEevAN3xGKF45RLyzPGz9MuqWemw9RTEzRjBX7qKKojl6sRI_rjldLBoeTGXVjQV3zyaQIEP91bM5dABBqd15j-lXhTJFjcS_8XzxaZg-OCcS7yfwCNHBSSBnLFQYiEl5QO3E1SCDbuSVcv0weQ4a_e51QT9g3ser4xeaVjDdMYa_9Kxew/WwW.Full-Stream.nu-Trio.-.Jakten.p%C3%A5.Olavsskrinet.2017.TRUEFRENCH.WEB-DL.XviD-ShowFr..avi.mp4
-
-#EXTINF:-1,tvg-name="Hitman and Bodyguard" tvg-logo="https://www.dvdsreleasedates.com/posters/800/T/The-Hitmans-Bodyguard-2017-movie-poster.jpg",Hitman and Bodyguard
-https://pgli2x.oloadcdn.net/dl/l/SAFWB5OFpaGPZyks/t6hAq0slHEU/The.Hitmans.Bodyguard.2017.FRENCH.avi.mp4?mime=true
-
-#EXTINF:-1, tvg-name="Killing Hasselhoff" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2NjAzNDg4MV5BMl5BanBnXkFtZTgwMzc2ODc4MjI@._V1_UY1200_CR89,0,630,1200_AL_.jpg",Killing Hasselhoff
-https://1fgqftc.oloadcdn.net/dl/l/0ewtHhne-C2L-sBP/LMtOo3zD5yw/Killing.Hasselhoff.2017.TRUEFRENCH.HDRip..www.en-streamingvf.net.avi.mp4?mime=true
-
-#EXTINF:-1,tvg-name="Fast And Furious 8" tvg-logo="https://i.pinimg.com/736x/8e/57/d6/8e57d61b4fedcd6e42bdd83ca7e6ed81--fast--fast-and-forious-.jpg",Fast And Furious 8
-https://s26.escdn.co/hls/,jg6nth7ci5tu7m7cyzbvm7kp2fbzs5fpv4ov3aarpnraxsurjm4lgqqx34ta,.urlset/master.m3u8
-
-#EXTINF:-1,tvg-name="Message From The King" tvg-logo="http://de.web.img3.acsta.net/pictures/17/10/18/12/04/1856440.jpg",Message From The King
-https://1fgqftc.oloadcdn.net/dl/l/PDrRPcYs56CjNQlW/zrp8pzMdMx4/Message.from.the.King.2016.FRENCH.mkv.mp4?mime=true
-
-#EXTINF:-1,tvg-name="Braquage à L´ancienne" tvg-logo="http://fr.web.img6.acsta.net/r_1280_720/pictures/17/02/08/15/54/313963.jpg",Braquage à L´ancienne
-https://www342.playercdn.net/85/3/J6FMDN39ArZuzdmE9rKZCw/1511085499/170905/146FJ8HBV28J6KL8BEXOH.mp4
-
-#EXTINF:-1,tvg-name="Naked" tvg-logo="https://pbs.twimg.com/media/DDfpPqDXkAEUKHr.jpg",Naked
-https://1fjiw5z.oloadcdn.net/dl/l/pOWhbyHjQGyHtmB_/WWun2T4IocM/Naked.2017.mp4?mime=true
-
-#EXTINF:-1,tvg-name="L´embarras Du Choix" tvg-logo="http://fr.web.img5.acsta.net/pictures/17/02/14/12/56/161798.jpg",L´embarras Du Choix
-https://s65.escdn.co/hls/,jg6nsurgkrtu7m7cyy5fo6cf2zv5qm5imgv3ihimfjzp2uycxnuxzyzymlja,.urlset/master.m3u8
-
-#EXTINF:-1,tvg-name="Good Luck Algeria" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BN2NmN2Q4N2YtYTdkYS00OGFjLWFiZmMtMzgzZjY1NTRiYmExXkEyXkFqcGdeQXVyMjI5MTAzNzA@._V1_UY1200_CR135,0,630,1200_AL_.jpg",Good Luck Algeria
-https://downtobox.com/streaming/film/good-luck-algeria-A.mp4
-
-#EXTINF:-1, tvg-name="Moi, Moche Et Méchant 3" tvg-logo="http://www.jouetopia.fr/wp-content/uploads/moi-moi-mechant-3-affiche-283x400.jpg",Moi, Moche Et Méchant 3
-https://oqbkiy.oloadcdn.net/dl/l/cklNyJ7sQ8-PF9oD/c1jYh0q3qho/Despicable.Me.3.2017.FRENCH.BDRip.x264.mkv.mp4?mime=true
-
-#EXTINF:-1, tvg-name="La Reine Des Neiges" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51xZIqI536L.jpg",La Reine Des Neiges
-https://1fgm8kr.oloadcdn.net/dl/l/pSYR_CmlcZHzlAfS/rCDAAvCPNP0/Frozen.2013.TRUEFRENCH.720p.HDLight.Spectre.2015.FRENCH.BDRip.x264.AC3-www.streamiz.voirfilmze.com.mkv.mp4?mime=true
-
-#EXTINF:-1, tvg-name="Vaiana, La Légende Du Bout Du Monde" tvg-logo="http://de.web.img2.acsta.net/pictures/16/09/29/10/09/537882.jpg",Vaiana, La Légende Du Bout Du Monde
-https://c15.vidlox.tv/hls/,oudvgwckljtk2yixv666ebzjd5jwx2uvwtksw53me3h42lysju3fmqofdp5q,.urlset/master.m3u8
 
 #EXTINF:-1,tvg-name="Ong Bak" tvg-logo="http://fr.web.img3.acsta.net/medias/nmedia/18/35/20/46/18373817.jpg",Ong Bak
 http://www.cdn-5.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3d3dy50NDExLmxpL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD01NjI5ODE4.smil/playlist.m3u8
@@ -345,32 +276,32 @@ http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
 #EXTINF:-1 tvg-name="Babestation 3" tvg-logo="http://i.imgur.com/dUhd2a3.png",Babestation 3
 http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder71/playlist.m3u8
 
-#EXTINF:-1 tvg-name"Adult VOD 1" tvg-logo="http://i.imgur.com/wauTPQN.png", Adult VOD 1
+#EXTINF:-1 tvg-name"Adult VOD 1" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg", Adult VOD 1
 http://www.phicatube.net/media/videos/iphone/33174.mp4
 
-#EXTINF:-1 tvg-name"Adult VOD 2" tvg-logo="http://i.imgur.com/h9aRgeG.png", Adult VOD 2
+#EXTINF:-1 tvg-name"Adult VOD 2" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg", Adult VOD 2
 http://www.phicatube.net/media/videos/iphone/20376.mp4
 
-#EXTINF:-1 tvg-name"Adult VOD 3" tvg-logo="http://i.imgur.com/h9aRgeG.png", Adult VOD 3
+#EXTINF:-1 tvg-name"Adult VOD 3" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg", Adult VOD 3
 http://anysex.com/get_file/1/cd8b8a352de360a9a974ede0d82e9947/197000/197925/197925.mp4/
 
-#EXTINF:-1 tvg-name"Adult VOD 4" tvg-logo="http://i.imgur.com/fPx3JtD.png", Adult VOD 4
+#EXTINF:-1 tvg-name"Adult VOD 4" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg", Adult VOD 4
 http://static.brazzers.com/scenes/4699/180sec.flv
 
-#EXTINF:-1 tvg-name"Adult VOD 5" tvg-logo="http://i.imgur.com/fPx3JtD.png", Adult VOD 5
+#EXTINF:-1 tvg-name"Adult VOD 5" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg", Adult VOD 5
 http://static.brazzers.com/scenes/4710/180sec.flv
 
-#EXTINF:-1 tvg-name"Adult VOD 6" tvg-logo="http://i.imgur.com/h9aRgeG.png", Adult VOD 6
+#EXTINF:-1 tvg-name"Adult VOD 6" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg", Adult VOD 6
 http://v.thebestvideocontentever.com/content/videos/000/052/972/panda/promo/tiny4k_promo_mp4_712_2500.mp4
 
-#EXTINF:-1 tvg-name"Adult VOD 7" tvg-logo="http://i.imgur.com/h9aRgeG.png", Adult VOD 7
+#EXTINF:-1 tvg-name"Adult VOD 7" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg", Adult VOD 7
 http://v.thebestvideocontentever.com/content/videos/000/053/617/panda/promo/tiny4k_promo_mp4_712_2500.mp4
 
-#EXTINF:-1 tvg-name"Adult VOD 8" tvg-logo="http://i.imgur.com/h9aRgeG.png", Adult VOD 8
+#EXTINF:-1 tvg-name"Adult VOD 8" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg", Adult VOD 8
 http://v.thebestvideocontentever.com/content/videos/000/047/543/panda/promo/tiny4k_promo_mp4_712_2500.mp4
 
-#EXTINF:-1 tvg-name"Adult VOD 9" tvg-logo="http://i.imgur.com/jSTMWXS.png", Adult VOD 9
+#EXTINF:-1 tvg-name"Adult VOD 9" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg", Adult VOD 9
 http://www.pornoid.com/get_file/1/016db94d1e313351abd84da7ac48bc21/31000/31396/31396.mp4
 
-#EXTINF:-1 tvg-name"Adult VOD 10" tvg-logo="http://i.imgur.com/jSTMWXS.png", Adult VOD 10
+#EXTINF:-1 tvg-name"Adult VOD 10" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg", Adult VOD 10
 http://www.pornoid.com/get_file/1/02096370bc5e9f060d63dc4b1f0d5c2e/12000/12673/12673.mp4
