@@ -13,7 +13,7 @@ http://185.59.221.143:1935/edge/rti2/playlist.m3u8
 http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 
 #EXTINF:-1 tvg-name="Canal 2" tvg-logo="http://camernews-pa2mdds.pa2m.netdna-cdn.com/wp-content/uploads/2015/07/camernews-Canal2-International-1170x480.jpg",Canal 2
-http://canal2-live-p-cdn.hexaglobe.net/3897e8cefb931c826f9432eb577262b0/5a14747c/canal2intepri_fre.smil/playlist.m3u8
+http://canal2-live-b-cdn.hexaglobe.net/40a635cab7df6cf5d70dcf65ae35ece8/5a2e7178/canal2intepri_fre.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV5 Monde Amerique Latine" tvg-logo="http://senderlogos.images.dvbdata.com/302x190_w/260.png",TV5 Monde Amerique Latine
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
