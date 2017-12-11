@@ -210,6 +210,9 @@ https://www.facebook.com/237KlarTV/
 #EXTINF:-1,tvg-name="W.A.K.A." tvg-logo="http://akatasia.com/files/2014/06/waka-francoise-ellong-cameroun.jpg",W.A.K.A.
 https://afrostreams.xyz/vods/smil:0d4e084c479d78f73a118d76a411539c5938de98.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAxNyAxMTo0NDoxOSBBTSZoYXNoX3ZhbHVlPXhlWm5MdkNZN2J4V3RPa1psbGI5SVE9PSZ2YWxpZG1pbnV0ZXM9MzAw
 
+#EXTINF:-1,tvg-name="Hunted" tvg-logo="http://www.cinecamer.info/images/trailer/hunted.png",Hunted
+https://tv5mondeafrique-vh.akamaihd.net/i/hls/7c/4931016,_200k,_400k,_600k,_900k,_1500k,_3000k,_5000k,.mp4.csmil/master.m3u8?hdnea=st=1512992946~exp=1513000146~acl=/*~hmac=45760ed2f468b0f72accf7797ee74372ca34f50b742cf5dc849e6f1afc8849e2
+
 #EXTINF:-1,tvg-name="Ong Bak" tvg-logo="http://fr.web.img3.acsta.net/medias/nmedia/18/35/20/46/18373817.jpg",Ong Bak
 http://www.cdn-5.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3d3dy50NDExLmxpL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD01NjI5ODE4.smil/playlist.m3u8
 
