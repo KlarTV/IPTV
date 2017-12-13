@@ -210,15 +210,6 @@ https://www.facebook.com/237KlarTV/
 #EXTINF:-1,tvg-name="W.A.K.A." tvg-logo="http://akatasia.com/files/2014/06/waka-francoise-ellong-cameroun.jpg",W.A.K.A.
 https://afrostreams.xyz/vods/smil:0d4e084c479d78f73a118d76a411539c5938de98.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name="Hunted" tvg-logo="http://www.cinecamer.info/images/trailer/hunted.png",Hunted
-https://tv5mondeafrique-vh.akamaihd.net/i/hls/7c/4931016,_200k,_400k,_600k,_900k,_1500k,_3000k,_5000k,.mp4.csmil/master.m3u8?hdnea=st=1513082759~exp=1513089959~acl=/*~hmac=d2fb4ec7707221826c65f7fc30e05f2b41c52ff802e4de782ea52bb40d120287
-
-#EXTINF:-1,tvg-name="Orly" tvg-logo="https://cdn.afromotion.tv/uploads/thumbs/8d56809d9e4eb4c9e7a5b5d203d93d8f0a0de9b3.jpg",Orly
-https://tv5mondeafrique-vh.akamaihd.net/i/hls/27/4842229,_200k,_400k,_600k,_900k,_1500k,_3000k,_5000k,.mp4.csmil/master.m3u8?hdnea=st=1513083017~exp=1513090217~acl=/*~hmac=032038e66924dd1a9453c14f6efce3c0aa9b331a997970b26d062b01f7c0edf5
-
-#EXTINF:-1,tvg-name="Rêve Sans Faim" tvg-logo="https://i.ytimg.com/vi/3IXoiIpvgZY/maxresdefault.jpg",Rêve Sans Faim
-https://tv5mondeafrique-vh.akamaihd.net/i/hls/b7/4848704,_200k,_400k,_600k,_900k,_1500k,_3000k,_5000k,.mp4.csmil/master.m3u8?hdnea=st=1513083046~exp=1513090246~acl=/*~hmac=3cef275162281654e493d31893f9a28fdfc54a7dac21a430cd910753b1c02c8a
-
 #EXTINF:-1,tvg-name="Ong Bak" tvg-logo="http://fr.web.img3.acsta.net/medias/nmedia/18/35/20/46/18373817.jpg",Ong Bak
 http://www.cdn-5.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3d3dy50NDExLmxpL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD01NjI5ODE4.smil/playlist.m3u8
 
