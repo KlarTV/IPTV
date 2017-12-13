@@ -13,7 +13,7 @@ http://185.59.221.143:1935/edge/rti2/playlist.m3u8
 http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 
 #EXTINF:-1 tvg-name="Canal 2" tvg-logo="http://camernews-pa2mdds.pa2m.netdna-cdn.com/wp-content/uploads/2015/07/camernews-Canal2-International-1170x480.jpg",Canal 2
-http://canal2-live-b2-cdn.hexaglobe.net/2ae5ffdfef30370b78efb34971ac7668/5a2fd0b6/canal2intepri_fre.smil/playlist.m3u8
+http://canal2-live-p2-cdn.hexaglobe.net/7dabaff5cd142477af944ed8db253ac1/5a315ca9/canal2intepri_fre.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV5 Monde Amerique Latine" tvg-logo="http://senderlogos.images.dvbdata.com/302x190_w/260.png",TV5 Monde Amerique Latine
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
@@ -208,7 +208,7 @@ http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
 https://www.facebook.com/237KlarTV/
 
 #EXTINF:-1,tvg-name="W.A.K.A." tvg-logo="http://akatasia.com/files/2014/06/waka-francoise-ellong-cameroun.jpg",W.A.K.A.
-https://afrostreams.xyz/vods/smil:0d4e084c479d78f73a118d76a411539c5938de98.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAxNyAxOjA0OjAzIFBNJmhhc2hfdmFsdWU9ajhhUHZRNitDSVlpSm9qQzFmTmZCZz09JnZhbGlkbWludXRlcz0zMDA=
+https://afrostreams.xyz/vods/smil:0d4e084c479d78f73a118d76a411539c5938de98.smil/playlist.m3u8
 
 #EXTINF:-1,tvg-name="Hunted" tvg-logo="http://www.cinecamer.info/images/trailer/hunted.png",Hunted
 https://tv5mondeafrique-vh.akamaihd.net/i/hls/7c/4931016,_200k,_400k,_600k,_900k,_1500k,_3000k,_5000k,.mp4.csmil/master.m3u8?hdnea=st=1513082759~exp=1513089959~acl=/*~hmac=d2fb4ec7707221826c65f7fc30e05f2b41c52ff802e4de782ea52bb40d120287
