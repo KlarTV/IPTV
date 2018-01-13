@@ -165,16 +165,19 @@ https://www.facebook.com/237KlarTV/
 #EXTINF:-1 tvg-name="W.A.K.A." tvg-logo="http://akatasia.com/files/2014/06/waka-francoise-ellong-cameroun.jpg",W.A.K.A.
 https://afrostreams.xyz/vods/smil:0d4e084c479d78f73a118d76a411539c5938de98.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name"Spider Man Homecoming" tvg-logo="http://uvchoice.com/wp-content/uploads/2017/11/SPIDERMAN-HOMECOMING.jpg",Spider Man Homecoming
+#EXTINF:-1 tvg-name="Spider Man Homecoming" tvg-logo="http://uvchoice.com/wp-content/uploads/2017/11/SPIDERMAN-HOMECOMING.jpg",Spider Man Homecoming
 http://www.cdn-1.host/mp4/aHR0cDovL3VwdG9ib3guY29tL2phb210NzdxaTh2bg==-hd.mp4
 
-#EXTINF:-1 tvg-name"Conspiraty" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Conspiracy-film.jpg/220px-Conspiracy-film.jpg",Conspiraty
+#EXTINF:-1 tvg-name="Wonder Woman" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/914oQNfJPwL._SY445_.jpg",Wonder Woman
+http://www.cdn-2.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3VwdG9ib3guY29tL3RtdTQ4and0dXJhMg==.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Conspiraty" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Conspiracy-film.jpg/220px-Conspiracy-film.jpg",Conspiraty
 http://www.cdn-6.host/mp4/aHR0cDovL3VwdG9ib3guY29tL3RnYTdnZGd3dnczeQ==-hd.mp4
 
-#EXTINF:-1 tvg-name"Pirates Des Caraïbe: La Vengeance De Salazar" tvg-logo="https://www.kinoarena.com/uploads/media/stenik_movies_image/0001/08/7134f1137f0855caa7f7b227c9c734e0723e300a.jpeg",Pirates Des Caraïbe: La Vengeance De Salazar
+#EXTINF:-1 tvg-name="Pirates Des Caraïbe: La Vengeance De Salazar" tvg-logo="https://www.kinoarena.com/uploads/media/stenik_movies_image/0001/08/7134f1137f0855caa7f7b227c9c734e0723e300a.jpeg",Pirates Des Caraïbe: La Vengeance De Salazar
 http://www.cdn-3.host/mp4/aHR0cDovL3VwdG9ib3guY29tLzVteDdlbWJ2bjZiaw==-hd.mp4
 
-#EXTINF:-1 tvg-name"Transformers: The Last Knight" tvg-logo="https://i.ytimg.com/vi/2_x-4yDeMA4/movieposter.jpg",Transformers: The Last Knight
+#EXTINF:-1 tvg-name="Transformers: The Last Knight" tvg-logo="https://i.ytimg.com/vi/2_x-4yDeMA4/movieposter.jpg",Transformers: The Last Knight
 http://www.cdn-4.host/mp4/aHR0cDovL3VwdG9ib3guY29tLzJrY3l2NDJzOHUzZA==-hd.mp4
 
 #EXTINF:-1 tvg-name="Ong Bak" tvg-logo="http://fr.web.img3.acsta.net/medias/nmedia/18/35/20/46/18373817.jpg",Ong Bak
