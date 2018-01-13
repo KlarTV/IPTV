@@ -33,39 +33,6 @@ http://live-trl101.abweb.com/liveabtrl101/ngrp:scienceetvie.stream_bis/chunklist
 #EXTINF:-1 tvg-name="Canal Savoir" tvg-logo="https://www.mcgill.ca/science/files/science/channels/image/canal-savoir-logo_0.png",Canal Savoir
 http://stream.canalsavoir.tv/livestream/stream.m3u8
 
-#EXTINF:-1 tvg-name="NRJ Hits TV" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV
-http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Music Choice: Hip-Hop/R&B" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Hip-Hop/R&B
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Music Choice: R+B/Soul" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: R+B/Soul
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Music Choice: Rap" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Rap
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Music Choice: Hit List" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Hit List
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Music Choice: Pop Latino" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Pop Latino
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Music Choice: Tropicales" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Tropicales
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Music Choice: Rock" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Rock
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Music Choice: Pop Hits" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Pop Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Music Choice: Teen Beats" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Teen Beats
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Music Choice: Kids Only!" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Kids Only!
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
-
 #EXTINF:-1 tvg-name="Das Erste" tvg-logo="http://www.daserste.de/specials/ueber-uns/logo-das-erste-108~_v-varl_94f212.jpg",Das Erste
 https://daserstelive-lh.akamaihd.net/i/daserste_de@38086/master.m3u8
 
@@ -156,71 +123,119 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://de.magine.com/app/uploads/2016/04/ComedyCentral_HD.jpg",Comedy Central
 http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
 
+#EXTINF:-1 tvg-name="NRJ Hits TV" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Music Choice: Hip-Hop/R&B" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Hip-Hop/R&B
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Music Choice: R&B/Soul" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: R&B/Soul
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Music Choice: Rap" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Rap
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Music Choice: Hit List" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Hit List
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Music Choice: Pop Latino" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Pop Latino
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Music Choice: Tropicales" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Tropicales
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Music Choice: Rock" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Music Choice: Pop Hits" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Pop Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Music Choice: Teen Beats" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Teen Beats
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Music Choice: Kids Only!" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Kids Only!
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
+
 
 
 
 #EXTINF:-1 tvg-name="*** Free VOD ***" tvg-logo="https://pbs.twimg.com/profile_images/549575189915111424/QFwJtPI7.png",*** Free VOD ***
 https://www.facebook.com/237KlarTV/
 
-#EXTINF:-1,tvg-name="W.A.K.A." tvg-logo="http://akatasia.com/files/2014/06/waka-francoise-ellong-cameroun.jpg",W.A.K.A.
+#EXTINF:-1 tvg-name="W.A.K.A." tvg-logo="http://akatasia.com/files/2014/06/waka-francoise-ellong-cameroun.jpg",W.A.K.A.
 https://afrostreams.xyz/vods/smil:0d4e084c479d78f73a118d76a411539c5938de98.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name="Ong Bak" tvg-logo="http://fr.web.img3.acsta.net/medias/nmedia/18/35/20/46/18373817.jpg",Ong Bak
+#EXTINF:-1 tvg-name"Spider Man Homecoming" tvg-logo="http://uvchoice.com/wp-content/uploads/2017/11/SPIDERMAN-HOMECOMING.jpg",Spider Man Homecoming
+http://www.cdn-1.host/mp4/aHR0cDovL3VwdG9ib3guY29tL2phb210NzdxaTh2bg==-hd.mp4
+
+#EXTINF:-1 tvg-name"Conspiraty" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Conspiracy-film.jpg/220px-Conspiracy-film.jpg",Conspiraty
+http://www.cdn-6.host/mp4/aHR0cDovL3VwdG9ib3guY29tL3RnYTdnZGd3dnczeQ==-hd.mp4
+
+#EXTINF:-1 tvg-name"Pirates Des Caraïbe: La Vengeance De Salazar" tvg-logo="https://www.kinoarena.com/uploads/media/stenik_movies_image/0001/08/7134f1137f0855caa7f7b227c9c734e0723e300a.jpeg",Pirates Des Caraïbe: La Vengeance De Salazar
+http://www.cdn-3.host/mp4/aHR0cDovL3VwdG9ib3guY29tLzVteDdlbWJ2bjZiaw==-hd.mp4
+
+#EXTINF:-1 tvg-name"Transformers: The Last Knight" tvg-logo="https://i.ytimg.com/vi/2_x-4yDeMA4/movieposter.jpg",Transformers: The Last Knight
+http://www.cdn-4.host/mp4/aHR0cDovL3VwdG9ib3guY29tLzJrY3l2NDJzOHUzZA==-hd.mp4
+
+#EXTINF:-1 tvg-name="Ong Bak" tvg-logo="http://fr.web.img3.acsta.net/medias/nmedia/18/35/20/46/18373817.jpg",Ong Bak
 http://www.cdn-5.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3d3dy50NDExLmxpL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD01NjI5ODE4.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name="Ong Bak 2" tvg-logo="http://fr.web.img5.acsta.net/medias/nmedia/18/68/24/67/19124091.jpg",Ong Bak 2
+#EXTINF:-1 tvg-name="Ong Bak 2" tvg-logo="http://fr.web.img5.acsta.net/medias/nmedia/18/68/24/67/19124091.jpg",Ong Bak 2
 http://www.cdn-7.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cHM6Ly8xZmljaGllci5jb20vP3NxMTZnb2FsMG0=.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name="Ong Bak 3" tvg-logo="http://fr.web.img2.acsta.net/medias/nmedia/18/82/35/79/19840043.jpg",Ong Bak 3
+#EXTINF:-1 tvg-name="Ong Bak 3" tvg-logo="http://fr.web.img2.acsta.net/medias/nmedia/18/82/35/79/19840043.jpg",Ong Bak 3
 http://www.cdn-7.host/mp4/aHR0cHM6Ly8xZmljaGllci5jb20vPzQ2ZzZzNzIwOTU=.mp4
 
-#EXTINF:-1,tvg-name="Romeo Doit Mourir" tvg-logo="http://fr.web.img4.acsta.net/medias/04/99/79/049979_af.jpg", Romeo Doit Mourir
+#EXTINF:-1 tvg-name="Romeo Doit Mourir" tvg-logo="http://fr.web.img4.acsta.net/medias/04/99/79/049979_af.jpg", Romeo Doit Mourir
 http://www.cdn-3.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL2E4c241dWxqM2EuMWZpY2hpZXIuY29tLw==.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name="Ghost Rider" tvg-logo="http://fr.web.img6.acsta.net/medias/nmedia/18/35/23/95/18707057.jpg",Ghost Rider
+#EXTINF:-1 tvg-name="Ghost Rider" tvg-logo="http://fr.web.img6.acsta.net/medias/nmedia/18/35/23/95/18707057.jpg",Ghost Rider
 http://www.cdn-1.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cHM6Ly8xZmljaGllci5jb20vPzZxemw5MnlvNnA=.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name="Ghost Rider 2" tvg-logo="http://fr.web.img6.acsta.net/medias/nmedia/18/85/43/88/19997438.jpg",Ghost Rider 2
+#EXTINF:-1 tvg-name="Ghost Rider 2" tvg-logo="http://fr.web.img6.acsta.net/medias/nmedia/18/85/43/88/19997438.jpg",Ghost Rider 2
 http://www.cdn-4.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3VwdG9ib3guY29tLzgyZm44YngybHoxMQ==.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name="La Nuit Au Musée" tvg-logo="http://fr.web.img6.acsta.net/medias/nmedia/18/62/88/34/18701946.jpg",La Nuit Au Musée
+#EXTINF:-1 tvg-name="La Nuit Au Musée" tvg-logo="http://fr.web.img6.acsta.net/medias/nmedia/18/62/88/34/18701946.jpg",La Nuit Au Musée
 http://www.cdn-3.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3d3dy50NDExLmxpL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD00NTcxNDU0.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name="La Nuit Au Musée 2" tvg-logo="http://fr.web.img6.acsta.net/medias/nmedia/18/69/03/62/19086548.jpg",La Nuit Au Musée 2
+#EXTINF:-1 tvg-name="La Nuit Au Musée 2" tvg-logo="http://fr.web.img6.acsta.net/medias/nmedia/18/69/03/62/19086548.jpg",La Nuit Au Musée 2
 http://www.cdn-2.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cHM6Ly8xZmljaGllci5jb20vP3NudjA1aXRucGs=.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name= "Universal Soldier" tvg-logo="http://fr.web.img2.acsta.net/medias/nmedia/18/60/08/30/19621120.jpg",Universal Soldier 
+#EXTINF:-1 tvg-name= "Universal Soldier" tvg-logo="http://fr.web.img2.acsta.net/medias/nmedia/18/60/08/30/19621120.jpg",Universal Soldier 
 http://www.cdn-1.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL25xYXExdmpwbHouMWZpY2hpZXIuY29tLw==.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name= "Universal Soldier 2 Le Combat Absolut" tvg-logo="https://media.senscritique.com/media/000000149810/source_big/Universal_Soldier_Le_Combat_absolu.jpg",Universal Soldier 2 Le Combat Absolut
+#EXTINF:-1 tvg-name= "Universal Soldier 2 Le Combat Absolut" tvg-logo="https://media.senscritique.com/media/000000149810/source_big/Universal_Soldier_Le_Combat_absolu.jpg",Universal Soldier 2 Le Combat Absolut
 http://www.cdn-2.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3d3dy50NDExLmxpL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD01NTkzNjE2.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name= "Universal Soldier 3 Regeneration" tvg-logo="https://moviefull-hd.com/images/2015/10/Watch-Universal-Soldier-Regeneration-2009-Online.jpg",Universal Soldier 3 Regeneration
+#EXTINF:-1 tvg-name= "Universal Soldier 3 Regeneration" tvg-logo="https://moviefull-hd.com/images/2015/10/Watch-Universal-Soldier-Regeneration-2009-Online.jpg",Universal Soldier 3 Regeneration
 http://www.cdn-4.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3d3dy4xc3QtZmlsZXMuY29tL3RnM2h2b2YxcmRsYQ==.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name= "Universal Soldier 4 Le Jour Du Jugement" tvg-logo="https://www.avoir-alire.com/IMG/jpg/universal-soldier-iv-le-jour-du-jugement-recto-jaquette.jpg",Universal soldier 4 Le Jour Du Jugement
+#EXTINF:-1 tvg-name= "Universal Soldier 4 Le Jour Du Jugement" tvg-logo="https://www.avoir-alire.com/IMG/jpg/universal-soldier-iv-le-jour-du-jugement-recto-jaquette.jpg",Universal soldier 4 Le Jour Du Jugement
 http://www.cdn-6.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3FqaGIzdS4xZmljaGllci5jb20v.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name= "The Karate Kid" tvg-logo="https://playadelnacho.files.wordpress.com/2013/08/the-karate-kid-poster-big.jpg",The Karate Kid
+#EXTINF:-1 tvg-name= "The Karate Kid" tvg-logo="https://playadelnacho.files.wordpress.com/2013/08/the-karate-kid-poster-big.jpg",The Karate Kid
 http://www.cdn-3.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3d3dy50NDExLmxpL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD01MTMzNzMx.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name= "The Karate Kid 2" tvg-logo="https://i.jeded.com/i/the-karate-kid-ii.28883.jpg",The Karate Kid 2
+#EXTINF:-1 tvg-name= "The Karate Kid 2" tvg-logo="https://i.jeded.com/i/the-karate-kid-ii.28883.jpg",The Karate Kid 2
 http://www.cdn-3.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL2hrMWJiM29wcTEuMWZpY2hpZXIuY29tLw==.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name= "The Karate Kid 3" tvg-logo="https://i.jeded.com/i/the-karate-kid-iii.28882.jpg",The Karate Kid 3
+#EXTINF:-1 tvg-name= "The Karate Kid 3" tvg-logo="https://i.jeded.com/i/the-karate-kid-iii.28882.jpg",The Karate Kid 3
 http://www.cdn-5.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovLzYzOWtpY2NqZjAuMWZpY2hpZXIuY29tLw==.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name= "The Karate Kid 4 Miss Karate Kid" tvg-logo="https://media.senscritique.com/media/000012388870/source_big/Miss_Karate_Kid.jpg",The Karate Kid 4 Miss Karate Kid
+#EXTINF:-1 tvg-name= "The Karate Kid 4 Miss Karate Kid" tvg-logo="https://media.senscritique.com/media/000012388870/source_big/Miss_Karate_Kid.jpg",The Karate Kid 4 Miss Karate Kid
 http://www.cdn-6.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3VwdG9ib3guY29tL2c4eHJ1amhmdmQ0NQ==.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name= "Mortal Kombat" tvg-logo="http://fr.web.img3.acsta.net/medias/nmedia/18/67/57/72/18987249.jpg",Mortal Kombat
+#EXTINF:-1 tvg-name= "Mortal Kombat" tvg-logo="http://fr.web.img3.acsta.net/medias/nmedia/18/67/57/72/18987249.jpg",Mortal Kombat
 http://www.cdn-6.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3d3dy50NDExLmxpL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD01MjA1NTcx.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name= "Mortal Kombat Destruction Final" tvg-logo="http://papystreaming.com/fr/files/2014/12/Mortal-Kombat-Destruction-finale.jpg",Mortal Kombat Destruction Final
+#EXTINF:-1 tvg-name= "Mortal Kombat Destruction Final" tvg-logo="http://papystreaming.com/fr/files/2014/12/Mortal-Kombat-Destruction-finale.jpg",Mortal Kombat Destruction Final
 http://www.cdn-2.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3d3dy50NDExLmxpL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD01MDEwMjg4.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name= "Street Fighter L'ultime Combat" tvg-logo="http://fr.web.img6.acsta.net/medias/nmedia/18/92/08/82/20179856.jpg",Street Fighter L'ultime Combat
+#EXTINF:-1 tvg-name= "Street Fighter L'ultime Combat" tvg-logo="http://fr.web.img6.acsta.net/medias/nmedia/18/92/08/82/20179856.jpg",Street Fighter L'ultime Combat
 http://www.cdn-4.host:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovLzNqa3A3YnMuMWZpY2hpZXIuY29tLw==.smil/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-name="*** Adult Content (-18) ***" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg",*** Adult Content (-18) ***
 https://www.facebook.com/237KlarTV/
@@ -235,31 +250,31 @@ http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
 http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder71/playlist.m3u8
 
 #EXTINF:-1 tvg-name"Adult VOD 1" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg", Adult VOD 1
-http://www.phicatube.net/media/videos/iphone/33174.mp4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
 
 #EXTINF:-1 tvg-name"Adult VOD 2" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg", Adult VOD 2
-http://www.phicatube.net/media/videos/iphone/20376.mp4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
 
 #EXTINF:-1 tvg-name"Adult VOD 3" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg", Adult VOD 3
 http://anysex.com/get_file/1/cd8b8a352de360a9a974ede0d82e9947/197000/197925/197925.mp4/
 
 #EXTINF:-1 tvg-name"Adult VOD 4" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg", Adult VOD 4
-http://static.brazzers.com/scenes/4699/180sec.flv
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_anabela_12minute.mp4
 
 #EXTINF:-1 tvg-name"Adult VOD 5" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg", Adult VOD 5
-http://static.brazzers.com/scenes/4710/180sec.flv
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_ilina_12minute.mp4
 
 #EXTINF:-1 tvg-name"Adult VOD 6" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg", Adult VOD 6
-http://v.thebestvideocontentever.com/content/videos/000/052/972/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+http://anysex.com/get_file/1/05aea56460ffe6544e25c74d5e8d603f/203000/203203/203203.mp4/
 
 #EXTINF:-1 tvg-name"Adult VOD 7" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg", Adult VOD 7
-http://v.thebestvideocontentever.com/content/videos/000/053/617/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+http://anysex.com/get_file/1/b042dbaad0bfc062be1745a7a718fbe6/197000/197560/197560.mp4/
 
 #EXTINF:-1 tvg-name"Adult VOD 8" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg", Adult VOD 8
-http://v.thebestvideocontentever.com/content/videos/000/047/543/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+http://stream2.fastcdn.me/flv/451.mp4
 
 #EXTINF:-1 tvg-name"Adult VOD 9" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg", Adult VOD 9
-http://www.pornoid.com/get_file/1/016db94d1e313351abd84da7ac48bc21/31000/31396/31396.mp4
+http://cdn.servitubes.com/videos/0/2/9/3/c/0293cf9012c23e92d7d68e7d599824008e498f04.mp4
 
 #EXTINF:-1 tvg-name"Adult VOD 10" tvg-logo="https://www.colourbox.com/preview/11986887-adult-content.jpg", Adult VOD 10
-http://www.pornoid.com/get_file/1/02096370bc5e9f060d63dc4b1f0d5c2e/12000/12673/12673.mp4
+http://cdn.servitubes.com/videos/2/3/e/6/b/23e6bdb1f1136158df6a20b60af4e40b0544c924.mp4
