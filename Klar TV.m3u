@@ -21,8 +21,14 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-name="BFM TV" tvg-logo="http://manager.ndasat.pro/picons/1_0_19_206D_432_1_C00000_0_0_0.png",BFM TV
 http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
 
-#EXTINF:-1 tvg-name="TV5 Monde Europe" tvg-logo="http://senderlogos.images.dvbdata.com/302x190_w/260.png",TV5 Monde Europe
-http://dvb1.swh.gemedis.net:8003/TV5
+#EXTINF:-1 tvg-name="AB1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/AB1_channel_logo.png",AB1
+http://live-trl102.abweb.com/liveabtrl102/ngrp:ab1.stream_bis/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Crime District" tvg-logo="http://www.bbox-actus.com/img/upload/crime-district.jpg",Crime District
+http://live-s102.abweb.com/liveabs102/ngrp:crimedistrict.stream_bis/chunklist_wf1tv_b1096000.m3u8
+
+#EXTINF:-1 tvg-name="Science et Vie TV" tvg-logo="http://www.science-et-vie.tv/images/logo.png",Science et Vie TV
+http://live-trl101.abweb.com/liveabtrl101/ngrp:scienceetvie.stream_bis/chunklist_b1096000.m3u8
 
 #EXTINF:-1 tvg-name="Canal Savoir" tvg-logo="https://www.mcgill.ca/science/files/science/channels/image/canal-savoir-logo_0.png",Canal Savoir
 http://stream.canalsavoir.tv/livestream/stream.m3u8
@@ -30,8 +36,35 @@ http://stream.canalsavoir.tv/livestream/stream.m3u8
 #EXTINF:-1 tvg-name="NRJ Hits TV" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV
 http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Kabel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kabel_eins_Logo_08.svg/2000px-Kabel_eins_Logo_08.svg.png",Kabel 1
-http://dvb1.swh.gemedis.net:8005/KABEL1
+#EXTINF:-1 tvg-name="Music Choice: Hip-Hop/R&B" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Hip-Hop/R&B
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Music Choice: R+B/Soul" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: R+B/Soul
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Music Choice: Rap" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Rap
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Music Choice: Hit List" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Hit List
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Music Choice: Pop Latino" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Pop Latino
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Music Choice: Tropicales" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Tropicales
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Music Choice: Rock" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Music Choice: Pop Hits" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Pop Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Music Choice: Teen Beats" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Teen Beats
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Music Choice: Kids Only!" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Kids Only!
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Das Erste" tvg-logo="http://www.daserste.de/specials/ueber-uns/logo-das-erste-108~_v-varl_94f212.jpg",Das Erste
 https://daserstelive-lh.akamaihd.net/i/daserste_de@38086/master.m3u8
@@ -47,27 +80,6 @@ http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 
 #EXTINF:-1 tvg-name="Arte Deutsch" tvg-logo="http://manager.ndasat.pro/picons/ARTE.png",Arte Deutsch
 https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
-
-#EXTINF:-1 tvg-name="Pro 7" tvg-logo="http://blob-europe.com/wp-content/uploads/2014/11/Pro7-logo.png",Pro 7
-http://dvb1.swh.gemedis.net:8005/Pro7
-
-#EXTINF:-1 tvg-name="Pro 7 Maxx" tvg-logo="http://www.vas-systeme.de/blog/wp-content/uploads/2013/07/pro7maxx.jpg",Pro 7 Maxx
-http://dvb1.swh.gemedis.net:8005/Pro7_Maxx
-
-#EXTINF:-1 tvg-name="Kika" tvg-logo="http://www.hd-sender.com/files/2013/05/kika-hd-logo-300x120.png",Kika
-http://dvb3.swh.gemedis.net:8001/KiKa
-
-#EXTINF:-1 tvg-name="VOX" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/ac/VOX_Logo.png",VOX
-http://dvb3.swh.gemedis.net:8002/VOX
-
-#EXTINF:-1 tvg-name="ZDF" tvg-logo="http://store2.up-00.com/2016-12/1482100213031.png",ZDF
-http://dvb3.swh.gemedis.net:8001/ZDF
-
-#EXTINF:-1 tvg-name="ZDF Info" tvg-logo="http://pix4.qmde.de/www.quotenmeter.de/pics/zdfinfo/logo/zdfinfo_ox__W1000xh0.jpg",ZDF Info
-http://dvb3.swh.gemedis.net:8001/ZDF.info
-
-#EXTINF:-1 tvg-name="ZDF Neo" tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/659.png",ZDF Neo
-http://dvb3.swh.gemedis.net:8001/ZDF.neo
 
 #EXTINF:-1 tvg-name="BR" tvg-logo="http://www.fonoforum.de/fileadmin/user_upload/slider/16-06-07-620-BR-Logo-qu.jpg",BR
 http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
@@ -107,60 +119,6 @@ http://123tv.cdn.ses-ps.com/index.m3u8
 
 #EXTINF:-1 tvg-name="Servus TV" tvg-logo="https://pbs.twimg.com/profile_images/587888784945086464/3aMl6Uyt.jpg",ServusTV
 http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
-
-#EXTINF:-1 tvg-name="Bayern" tvg-logo="http://www.horizont.net/news/media/14/TV-Bayern-132214-detailp.jpeg",Bayern
-http://dvb1.swh.gemedis.net:8000/Bayern
-
-#EXTINF:-1 tvg-name="CCTV9_Doku" tvg-logo="http://www.ppntv.com/uploads/allimg/140830/1-140S0220022429.jpg",CCTV9_Doku
-http://dvb1.swh.gemedis.net:8003/CCTV9_Doku
-
-#EXTINF:-1 tvg-name="CCTV_EN" tvg-logo="http://www.ppntv.com/uploads/allimg/140830/1-140S0220022429.jpg",CCTV_EN
-http://dvb1.swh.gemedis.net:8003/CCTV_engl
-
-#EXTINF:-1 tvg-name="CCTV_FR" tvg-logo="http://www.ppntv.com/uploads/allimg/140830/1-140S0220022429.jpg",CCTV_FR
-http://dvb1.swh.gemedis.net:8003/CCTV_fr
-
-#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://www.mansworld.com/media/swi/brands/47/logo/logo_ch_de.jpg",DMAX
-http://dvb3.swh.gemedis.net:8006/DMAX
-
-#EXTINF:-1 tvg-name="Euronews" tvg-logo="http://ua.ejo-online.eu/wp-content/uploads/2014/11/euronews.png",Euronews
-http://dvb3.swh.gemedis.net:8002/Euronews
-
-#EXTINF:-1 tvg-name="Hessen" tvg-logo="https://www.mediathek-hessen.de/image/templates/standardV2/rtl_preview.jpg",Hessen
-http://dvb1.swh.gemedis.net:8000/Hessen
-
-#EXTINF:-1 tvg-name="N24" tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/175.png",N24
-http://dvb1.swh.gemedis.net:8005/N24
-
-#EXTINF:-1 tvg-name="RTL" tvg-logo="http://www.business-on.de/dateien/bilder/rtl_logo_2012.png",RTL
-http://dvb3.swh.gemedis.net:8002/RTL
-
-#EXTINF:-1 tvg-name="RTL 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL2_Logo.svg/1000px-RTL2_Logo.svg.png",RTL 2
-http://dvb3.swh.gemedis.net:8002/RTL2
-
-#EXTINF:-1 tvg-name="Super RTL" tvg-logo="http://store2.up-00.com/2016-12/1482099146351.png",Super RTL
-http://dvb3.swh.gemedis.net:8002/SuperRTL
-
-#EXTINF:-1 tvg-name="RT English" tvg-logo="https://pbs.twimg.com/profile_images/519079377003229184/Ksltcjp_.png",RT English
-http://dvb1.swh.gemedis.net:8003/RT_English
-
-#EXTINF:-1 tvg-name="SAT.1" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2017/10/sat1-logo-rgb-210x131.jpg",SAT.1
-http://dvb1.swh.gemedis.net:8005/SAT.1
-
-#EXTINF:-1 tvg-name="SAT.1 Gold" tvg-logo="http://www.prosiebensat1.com/uploads/2015/11/04/sat1_47l_sat1gold.jpg",SAT.1 Gold
-http://dvb1.swh.gemedis.net:8005/SAT.1_Gold
-
-#EXTINF:-1 tvg-name="Suedwest-Baden" tvg-logo="http://www.einstiegberuf.de/wp-content/uploads/2017/03/badenTV_logo_RGB_72dpi_Internet1.jpg",Suedwest-Baden
-http://dvb1.swh.gemedis.net:8000/Suedwest-Baden
-
-#EXTINF:-1 tvg-name="Tele 5" tvg-logo="http://4.bp.blogspot.com/-VqeD6H2eSDM/URQHRxw6HdI/AAAAAAAAQOk/WfZzcBnFFY0/s400/HBO_MakeRoom_Black.jpg",Tele 5
-http://dvb3.swh.gemedis.net:8006/Tele5
-
-#EXTINF:-1 tvg-name="Eurosport" tvg-logo="http://2.bp.blogspot.com/-TwuQiWWA31g/TWJzc46CKNI/AAAAAAAABak/tNNC0x0eGfI/s1600/eurosport_softformobiles5.png",Eurosport
-http://dvb3.swh.gemedis.net:8002/Eurosport
-
-#EXTINF:-1 tvg-name="Sport 1" tvg-logo="http://www.aok-traditionsmasters.de/wp-content/uploads/2012/05/Logo-SPORT1.png",Sport 1
-http://dvb3.swh.gemedis.net:8006/Sport1
 
 #EXTINF:-1 tvg-name="Sky Sport News" tvg-logo="http://www.aptitudeforsoccer.com/wp-content/uploads/2014/09/sky-sports-news-UK-logo.png",Sky Sport News
 https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
