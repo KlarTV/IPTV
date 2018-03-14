@@ -4,13 +4,22 @@
 https://www.facebook.com/237KlarTV/
 
 #EXTINF:-1 tvg-name="RTI 1" tvg-logo="http://regardscroises.ivoire-blog.com/media/00/00/1357824147.jpg",RTI 1
-http://185.59.221.143:1935/edge/rti1/playlist.m3u8
+http://185.59.221.143:1935/rticdn/smil:rti1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTI 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/RTI_2.jpg",RTI 2
-http://185.59.221.143:1935/edge/rti2/playlist.m3u8
+#EXTINF:-1 tvg-name="ORTM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Ortm_logo_2008.png",ORTM
+https://stream-08.ix7.dailymotion.com/09/dm/3/x5tcmdy/live-0.m3u8
+
+#EXTINF:-1 tvg-name="3A Telesud" tvg-logo="http://www.gentv.be/logos/telesud.png",3A Telesud
+https://stream-06.ix7.dailymotion.com/50/dm/3/x52et3w/live-0.m3u8
 
 #EXTINF:-1 tvg-name="RTV" tvg-logo="http://www.rba.co.rw/IMG/rtv_logo.png",RTV
 http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
+
+#EXTINF:-1 tvg-name="Trace Africa" tvg-logo="http://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png",Trace Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/1/prog_index.m3u8
+
+#EXTINF:-1 tvg-name="NRJ Hits TV" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV5 Monde Amerique Latine" tvg-logo="http://senderlogos.images.dvbdata.com/302x190_w/260.png",TV5 Monde Amerique Latine
 https://api-asia.tv5monde.com/Live/250600/4792245510001-5/tv5plusinfo/master.m3u8
@@ -19,10 +28,7 @@ https://api-asia.tv5monde.com/Live/250600/4792245510001-5/tv5plusinfo/master.m3u
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
 #EXTINF:-1 tvg-name="BFM TV" tvg-logo="http://manager.ndasat.pro/picons/1_0_19_206D_432_1_C00000_0_0_0.png",BFM TV
-http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
-
-#EXTINF:-1 tvg-name="AB1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/AB1_channel_logo.png",AB1
-http://live-trl102.abweb.com/liveabtrl102/ngrp:ab1.stream_bis/playlist.m3u8
+https://bfmtvalive1-a.akamaihd.net/8a3483ffeb9d40f0a738c1392f2bcc14/eu-central-1/876450610001/dd257bd6bff64eccb0a29b54cc705a07/playlist_ssaiM.m3u8
 
 #EXTINF:-1 tvg-name="Crime District" tvg-logo="http://www.bbox-actus.com/img/upload/crime-district.jpg",Crime District
 http://live-s102.abweb.com/liveabs102/ngrp:crimedistrict.stream_bis/chunklist_wf1tv_b1096000.m3u8
@@ -122,39 +128,6 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
 #EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://de.magine.com/app/uploads/2016/04/ComedyCentral_HD.jpg",Comedy Central
 http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
-
-#EXTINF:-1 tvg-name="NRJ Hits TV" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV
-http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Music Choice: Hip-Hop/R&B" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Hip-Hop/R&B
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Music Choice: R&B/Soul" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: R&B/Soul
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Music Choice: Rap" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Rap
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Music Choice: Hit List" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Hit List
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Music Choice: Pop Latino" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Pop Latino
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Music Choice: Tropicales" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Tropicales
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Music Choice: Rock" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Rock
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Music Choice: Pop Hits" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Pop Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Music Choice: Teen Beats" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Teen Beats
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Music Choice: Kids Only!" tvg-logo="https://i.imgur.com/KOkrgKs.png",Music Choice: Kids Only!
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
 
 
 
