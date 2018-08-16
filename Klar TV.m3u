@@ -1,7 +1,11 @@
-﻿#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-name="*** Klar TV Channels ***" tvg-logo="https://i.imgur.com/GD3yeIR.jpg",*** Klar TV Channels ***
 https://www.facebook.com/237KlarTV/
+
+
+
+#EXTINF:-1 tvg-name="*** Arfican Channels ***"
 
 #EXTINF:-1 tvg-name="RTI 1" tvg-logo="http://regardscroises.ivoire-blog.com/media/00/00/1357824147.jpg",RTI 1
 http://185.59.221.143:1935/rticdn/smil:rti1.smil/playlist.m3u8
@@ -15,11 +19,9 @@ https://stream-06.ix7.dailymotion.com/50/dm/3/x52et3w/live-0.m3u8
 #EXTINF:-1 tvg-name="RTV" tvg-logo="http://www.rba.co.rw/IMG/rtv_logo.png",RTV
 http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 
-#EXTINF:-1 tvg-name="Trace Africa" tvg-logo="http://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png",Trace Africa
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/1/prog_index.m3u8
 
-#EXTINF:-1 tvg-name="NRJ Hits TV" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV
-http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="*** French Channels ***"
 
 #EXTINF:-1 tvg-name="TV5 Monde Amerique Latine" tvg-logo="http://senderlogos.images.dvbdata.com/302x190_w/260.png",TV5 Monde Amerique Latine
 https://api-asia.tv5monde.com/Live/250600/4792245510001-5/tv5plusinfo/master.m3u8
@@ -39,41 +41,54 @@ http://live-trl101.abweb.com/liveabtrl101/ngrp:scienceetvie.stream_bis/chunklist
 #EXTINF:-1 tvg-name="Canal Savoir" tvg-logo="https://www.mcgill.ca/science/files/science/channels/image/canal-savoir-logo_0.png",Canal Savoir
 http://stream.canalsavoir.tv/livestream/stream.m3u8
 
-#EXTINF:-1 tvg-name="Das Erste" tvg-logo="http://www.daserste.de/specials/ueber-uns/logo-das-erste-108~_v-varl_94f212.jpg",Das Erste
-https://daserstelive-lh.akamaihd.net/i/daserste_de@38086/master.m3u8
+
+
+#EXTINF:-1 tvg-name="*** German Channels ***"
+
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-logo="http://www.daserste.de/specials/ueber-uns/logo-das-erste-108~_v-varl_94f212.jpg",Das Erste HD
+https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_7_av-p.m3u8
+
+#EXTINF:-1 tvg-name="ZDF HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
+https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3096_av-b.m3u8
 
 #EXTINF:-1 tvg-name="Deutsche Welle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png",Deutsche Welle
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
 
 #EXTINF:-1 tvg-name="3 Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3sat-Logo.svg/775px-3sat-Logo.svg.png",3 Sat
-https://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
+https://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/index_1496_av-p.m3u8
 
 #EXTINF:-1 tvg-name="ARD Alpha" tvg-logo="https://cdn.pixabay.com/photo/2016/03/19/17/55/ard-1267087_960_720.png",ARD Alpha
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 
 #EXTINF:-1 tvg-name="Arte Deutsch" tvg-logo="http://manager.ndasat.pro/picons/ARTE.png",Arte Deutsch
-https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-b.m3u8
 
-#EXTINF:-1 tvg-name="BR" tvg-logo="http://www.fonoforum.de/fileadmin/user_upload/slider/16-06-07-620-BR-Logo-qu.jpg",BR
-http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+#EXTINF:-1 tvg-name="KiKA" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
+https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/index_3776_av-p.m3u8
 
-#EXTINF:-1 tvg-name="HR" tvg-logo="http://programm.ard.de/files/265/2007/2778/28108.jpg",HR
-http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png",Nickelodeon
+http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-b.m3u8
 
-#EXTINF:-1 tvg-name="MDR Sachsen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Mdr_SACHSEN_Logo_2017.png",MDR Sachsen
-http://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8
+#EXTINF:-1 tvg-name="Welt der Wunder" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png",Welt der Wunder
+http://live.vidoo.de/live/weltderwunder/master.m3u8
 
-#EXTINF:-1 tvg-name="NDR Hamburg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png",NDR Hamburg
-http://ndrfs.ndr.de/i/ndrfs_hh@119223/master.m3u8
+#EXTINF:-1 tvg-name="ARD-alpha" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_3776_av-p.m3u8
 
-#EXTINF:-1 tvg-name="ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/2000px-One_TV_Logo.svg.png",ONE
-http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
+#EXTINF:-1 tvg-name="ZDFneo" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneo.png",ZDFneo
+https://zdf1314-lh.akamaihd.net/i/de13_v1@392877/index_3096_av-b.m3u8
 
-#EXTINF:-1 tvg-name="Phoenix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Phoenix_Logo_2012.svg/1200px-Phoenix_Logo_2012.svg.png",Phoenix
-https://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8
+#EXTINF:-1 tvg-name="ZDFinfo" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfo.png",ZDFinfo
+http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/index_3096_av-p.m3u8
 
-#EXTINF:-1 tvg-name="Rbb Berlin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/RBB_Fernsehen-Logo.svg/1280px-RBB_Fernsehen-Logo.svg.png",Rbb Berlin
-https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
+#EXTINF:-1 tvg-name="tagesschau24" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+
+#EXTINF:-1 tvg-name="WDR HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
+http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/index_3776_av-p.m3u8
+
+#EXTINF:-1 tvg-name="Deutsche Welle" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle
+https://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-name="SR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/SR_Fernsehen_HD_Logo.png",SR
 http://fs.live.sr.de/i/sr_universal02@107595/master.m3u8
@@ -81,17 +96,151 @@ http://fs.live.sr.de/i/sr_universal02@107595/master.m3u8
 #EXTINF:-1 tvg-name="SWR" tvg-logo="https://www.swr.de/-/id=8122392/property=full/25s6pw/SWR%20Unternehmensmarke,%20Logo.jpg",SWR
 https://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
 
-#EXTINF:-1 tvg-name="Tagesshau 24" tvg-logo="https://upload.wikimedia.org/wikipedia/de/3/36/Tagesschau_logo.png",Tagesshau 24
-https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-
-#EXTINF:-1 tvg-name="WDR" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2012/04/neues-wdr-logo.jpg",WDR
-http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8
-
-#EXTINF:-1 tvg-name="1-2-3 TV" tvg-logo="https://4.bp.blogspot.com/-BAcecuCPkK4/VGjDw1zsTdI/AAAAAAAACeE/eSgTcT9nY7Y/s1600/123tv.jpg",1-2-3 TV
-http://123tv.cdn.ses-ps.com/index.m3u8
-
 #EXTINF:-1 tvg-name="Servus TV" tvg-logo="https://pbs.twimg.com/profile_images/587888784945086464/3aMl6Uyt.jpg",ServusTV
 http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
+
+#EXTINF:-1 tvg-name="ANIXE HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png",ANIXE HD
+http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
+
+#EXTINF:-1 tvg-name="blizz TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blizztv.png",blizz TV
+http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
+
+#EXTINF:-1 tvg-name="Family TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/familytv.png",Family TV
+http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/index_500_av-p.m3u8
+
+#EXTINF:-1 tvg-name="eoTV HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/eotvhd.png",eoTV HD
+http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RiC / eoTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ric.png",RiC / eoTV
+https://58b42f6c8c9bf.streamlock.net/live/rictv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Nice" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nice.png",Nice
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:4195-mbr.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-name="Folx TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/folxtv.png",Folx TV
+http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="n-tv" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ntv.png",n-tv
+https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_1@409250/index_1500_av-p.m3u8
+
+#EXTINF:-1 tvg-name="WELT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
+http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-name="phoenix" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
+https://zdf0910-lh.akamaihd.net/i/de09_v1@392871/index_1496_av-p.m3u8
+
+#EXTINF:-1 tvg-name="K-TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png",K-TV
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+
+#EXTINF:-1 tvg-name="ERF 1" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/erf1.png",ERF 1
+http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/chunklist_w1563145417_b240000.m3u8
+
+#EXTINF:-1 tvg-name="health.tv" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/healthtv.png",health.tv
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="VISIT-X.tv" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/visitxtv.png",VISIT-X.tv
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="1-2-3.tv" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/123tv.png",1-2-3.tv
+http://123tv.cdn.ses-ps.com/stream070101/playlist.m3u8
+
+#EXTINF:-1 tvg-name="pearl.tv" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png",pearl.tv
+http://enstyle.cdn.ses-ps.com/index.m3u8
+
+#EXTINF:-1 tvg-name="QVC" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",QVC
+http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8
+
+#EXTINF:-1 tvg-name="QVC PLUS" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcplus.png",QVC PLUS
+http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8
+
+#EXTINF:-1 tvg-name="QVC Beauty & Style" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcbeautystyle.png",QVC Beauty & Style
+http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/3/prog_index.m3u8
+
+#EXTINF:-1 tvg-name="Genius Plus TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/geniusplustv.png",Genius Plus TV
+http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="A TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png",A TV
+http://atvhd.iptv-playoutcenter.de/atvHD/ngrp:atvhd.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="eRtv" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ertv.png",eRtv
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5679_nYMRJQdgpK3WDGr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Intv" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/intv.png",Intv
+https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Isar TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/isartv.png",Isar TV
+https://586c13b083c0d.streamlock.net/isar-tv/isar-tv.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KabelJournal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kabeljournal.png",KabelJournal
+http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="L-TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ltv.png",L-TV
+http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ORF 2 HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf2hd.png",ORF 2 HD
+http://orf2.orf.cdn.ors.at/orf2/q8c.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="dorf tv" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dorftv.png",dorf tv
+https://stream.openplayout.org/hls/dorf_high/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="*** Music Channels ***"
+
+#EXTINF:-1 tvg-name="Trace Africa" tvg-logo="http://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png",Trace Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/1/prog_index.m3u8
+
+#EXTINF:-1 tvg-name="NRJ Hits TV" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MTV Germany" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png",MTV Germany
+http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8
+
+#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png",DELUXE MUSIC
+http://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Deutsches Musik Fernsehen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png",Deutsches Musik Fernsehen
+https://tv.artcom-venture.de/dmf/tv_720.m3u8
+
+#EXTINF:-1 tvg-name="DJing" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing
+https://www.djing.com/tv/live.m3u8
+
+#EXTINF:-1 tvg-name="DJing Animation" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing Animation
+https://www.djing.com/tv/animation.m3u8
+
+#EXTINF:-1 tvg-name="DJing Classics" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing Classics
+https://www.djing.com/tv/hits.m3u8
+
+#EXTINF:-1 tvg-name="DJing Electro Rock" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing Electro Rock
+https://www.djing.com/tv/session_electro-rock.m3u8
+
+#EXTINF:-1 tvg-name="DJing French touch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing French touch
+https://www.djing.com/tv/session_french-touch.m3u8
+
+#EXTINF:-1 tvg-name="DJing Hedonist" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing Hedonist
+https://www.djing.com/tv/session_hedonist.m3u8
+
+#EXTINF:-1 tvg-name="DJing Hot Hot Hot" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing Hot Hot Hot
+https://www.djing.com/tv/h-01-fta.m3u8
+
+#EXTINF:-1 tvg-name="DJing Ibiza" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing Ibiza
+https://www.djing.com/tv/dancefloor.m3u8
+
+#EXTINF:-1 tvg-name="DJing Karaoke" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing Karaoke
+https://www.djing.com/tv/karaoke.m3u8
+
+#EXTINF:-1 tvg-name="DJing Summer Vibes" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing Summer Vibes
+https://www.djing.com/tv/session_summer-vibes.m3u8
+
+#EXTINF:-1 tvg-name="DJing Underground" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing Underground
+https://www.djing.com/tv/underground.m3u8
+
+#EXTINF:-1 tvg-name="DJing Wild EDM" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing Wild EDM
+http://www.djing.com/tv/session_wild-edm.m3u8
+
+
+
+#EXTINF:-1 tvg-name="*** Sport Channels ***"
 
 #EXTINF:-1 tvg-name="Sky Sport News" tvg-logo="http://www.aptitudeforsoccer.com/wp-content/uploads/2014/09/sky-sports-news-UK-logo.png",Sky Sport News
 https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
@@ -111,11 +260,12 @@ http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 #EXTINF:-1 tvg-name="MLB Network" tvg-logo="https://i.imgur.com/G9VKlxx.png",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://www.comm.lsa.umich.edu/blog/wp-content/uploads/2011/03/aljazeera_logo.jpg",Al Jazeera
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport News HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png",Sky Sport News HD
+https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
 
-#EXTINF:-1 tvg-name="Catholic TV" tvg-logo="https://www.thebostonpilot.com/news/20140822/images/700x450_Pilot_13106.jpg",Catholic TV
-http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+
+
+#EXTINF:-1 tvg-name="*** News Channels ***"
 
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/images/tv-images/2015/08/03/Headline_BBC.png",BBC World News
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
@@ -126,9 +276,39 @@ http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 #EXTINF:-1 tvg-name="CBS News" tvg-logo="http://www.oursoil.org/wp-content/uploads/2016/12/8356634_orig.jpg",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://www.comm.lsa.umich.edu/blog/wp-content/uploads/2011/03/aljazeera_logo.jpg",Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png",ABC News
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8
+
+#EXTINF:-1 tvg-name="CBN News" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png",CBN News
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-b.m3u8
+
+#EXTINF:-1 tvg-name="MSNBC" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/msnbc.png",MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8
+
+#EXTINF:-1 tvg-name="Voice of America" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/voiceofamerica.png",Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
 #EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://de.magine.com/app/uploads/2016/04/ComedyCentral_HD.jpg",Comedy Central
 http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
 
+
+
+#EXTINF:-1 tvg-name="*** Church Channels ***"
+
+#EXTINF:-1 tvg-name="Catholic TV" tvg-logo="https://www.thebostonpilot.com/news/20140822/images/700x450_Pilot_13106.jpg",Catholic TV
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+
+#EXTINF:-1 tvg-name="GOD TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/godtv.png",GOD TV
+https://ooyalahd2-f.akamaihd.net/i/godtv02_delivery@17351/index_3200_av-p.m3u8
+
+#EXTINF:-1 tvg-name="Bibel TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV
+http://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EWTN katholisches TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ewtnkatholischestv.png",EWTN katholisches TV
+http://cdn.mainstreaming.tv/live/101122/O83gQkU/chunklist_b2592000.m3u8
 
 
 
