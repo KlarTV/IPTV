@@ -5,7 +5,8 @@ https://www.facebook.com/237KlarTV/
 
 
 
-#EXTINF:-1 tvg-name="*** Arfican Channels ***" tvg-logo="https://www.thematv.com/medias/channels/le-bouquet-africain/BOUQUET_AFR_LOGO_www_RVB.jpg",*** Arfican Channels ***
+#EXTINF:-1 tvg-name="*** Arfican Channels ***",*** Arfican Channels ***
+https://www.facebook.com/237KlarTV/
 
 #EXTINF:-1 tvg-name="RTI 1" tvg-logo="http://regardscroises.ivoire-blog.com/media/00/00/1357824147.jpg",RTI 1
 http://185.59.221.143:1935/rticdn/smil:rti1.smil/playlist.m3u8
@@ -18,7 +19,8 @@ http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 
 
 
-#EXTINF:-1 tvg-name="*** French Channels ***"
+#EXTINF:-1 tvg-name="*** French Channels ***",*** French Channels ***
+https://www.facebook.com/237KlarTV/
 
 #EXTINF:-1 tvg-name="TV5 Monde Amerique Latine" tvg-logo="http://senderlogos.images.dvbdata.com/302x190_w/260.png",TV5 Monde Amerique Latine
 https://api-asia.tv5monde.com/Live/250600/4792245510001-5/tv5plusinfo/master.m3u8
@@ -41,6 +43,7 @@ http://stream.canalsavoir.tv/livestream/stream.m3u8
 
 
 #EXTINF:-1 tvg-name="*** German Channels ***"
+https://www.facebook.com/237KlarTV/
 
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-logo="http://www.daserste.de/specials/ueber-uns/logo-das-erste-108~_v-varl_94f212.jpg",Das Erste HD
 https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_7_av-p.m3u8
@@ -183,6 +186,7 @@ https://stream.openplayout.org/hls/dorf_high/index.m3u8
 
 
 #EXTINF:-1 tvg-name="*** Music Channels ***"
+https://www.facebook.com/237KlarTV/
 
 #EXTINF:-1 tvg-name="Trace Africa" tvg-logo="http://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png",Trace Africa
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/1/prog_index.m3u8
@@ -238,6 +242,7 @@ http://www.djing.com/tv/session_wild-edm.m3u8
 
 
 #EXTINF:-1 tvg-name="*** Sport Channels ***"
+https://www.facebook.com/237KlarTV/
 
 #EXTINF:-1 tvg-name="Sky Sport News" tvg-logo="http://www.aptitudeforsoccer.com/wp-content/uploads/2014/09/sky-sports-news-UK-logo.png",Sky Sport News
 https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
@@ -263,6 +268,7 @@ https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-340
 
 
 #EXTINF:-1 tvg-name="*** News Channels ***"
+https://www.facebook.com/237KlarTV/
 
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/images/tv-images/2015/08/03/Headline_BBC.png",BBC World News
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
@@ -294,6 +300,7 @@ http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
 
 
 #EXTINF:-1 tvg-name="*** Church Channels ***"
+https://www.facebook.com/237KlarTV/
 
 #EXTINF:-1 tvg-name="Catholic TV" tvg-logo="https://www.thebostonpilot.com/news/20140822/images/700x450_Pilot_13106.jpg",Catholic TV
 http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
