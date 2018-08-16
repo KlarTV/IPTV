@@ -10,9 +10,6 @@ https://www.facebook.com/237KlarTV/
 #EXTINF:-1 tvg-name="RTI 1" tvg-logo="http://regardscroises.ivoire-blog.com/media/00/00/1357824147.jpg",RTI 1
 http://185.59.221.143:1935/rticdn/smil:rti1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ORTM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Ortm_logo_2008.png",ORTM
-https://stream-08.ix7.dailymotion.com/09/dm/3/x5tcmdy/live-0.m3u8
-
 #EXTINF:-1 tvg-name="3A Telesud" tvg-logo="http://www.gentv.be/logos/telesud.png",3A Telesud
 https://stream-06.ix7.dailymotion.com/50/dm/3/x52et3w/live-0.m3u8
 
