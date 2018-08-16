@@ -42,7 +42,7 @@ http://stream.canalsavoir.tv/livestream/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-name="*** German Channels ***"
+#EXTINF:-1 tvg-name="*** German Channels ***",*** German Channels ***
 https://www.facebook.com/237KlarTV/
 
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-logo="http://www.daserste.de/specials/ueber-uns/logo-das-erste-108~_v-varl_94f212.jpg",Das Erste HD
@@ -185,7 +185,7 @@ https://stream.openplayout.org/hls/dorf_high/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="*** Music Channels ***"
+#EXTINF:-1 tvg-name="*** Music Channels ***",*** Music Channels ***
 https://www.facebook.com/237KlarTV/
 
 #EXTINF:-1 tvg-name="Trace Africa" tvg-logo="http://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png",Trace Africa
@@ -241,7 +241,7 @@ http://www.djing.com/tv/session_wild-edm.m3u8
 
 
 
-#EXTINF:-1 tvg-name="*** Sport Channels ***"
+#EXTINF:-1 tvg-name="*** Sport Channels ***",*** Sport Channels ***
 https://www.facebook.com/237KlarTV/
 
 #EXTINF:-1 tvg-name="Sky Sport News" tvg-logo="http://www.aptitudeforsoccer.com/wp-content/uploads/2014/09/sky-sports-news-UK-logo.png",Sky Sport News
@@ -267,7 +267,7 @@ https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-340
 
 
 
-#EXTINF:-1 tvg-name="*** News Channels ***"
+#EXTINF:-1 tvg-name="*** News Channels ***",*** News Channels ***
 https://www.facebook.com/237KlarTV/
 
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/images/tv-images/2015/08/03/Headline_BBC.png",BBC World News
@@ -299,7 +299,7 @@ http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
 
 
 
-#EXTINF:-1 tvg-name="*** Church Channels ***"
+#EXTINF:-1 tvg-name="*** Church Channels ***",*** Church Channels ***
 https://www.facebook.com/237KlarTV/
 
 #EXTINF:-1 tvg-name="Catholic TV" tvg-logo="https://www.thebostonpilot.com/news/20140822/images/700x450_Pilot_13106.jpg",Catholic TV
