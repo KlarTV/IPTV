@@ -5,7 +5,7 @@ https://www.facebook.com/237KlarTV/
 
 
 
-#EXTINF:-1 tvg-name="*** Arfican Channels ***"
+#EXTINF:-1 tvg-name="*** Arfican Channels ***" tvg-logo=" ",*** Arfican Channels ***
 
 #EXTINF:-1 tvg-name="RTI 1" tvg-logo="http://regardscroises.ivoire-blog.com/media/00/00/1357824147.jpg",RTI 1
 http://185.59.221.143:1935/rticdn/smil:rti1.smil/playlist.m3u8
