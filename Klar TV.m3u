@@ -22,20 +22,8 @@ http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 #EXTINF:-1 tvg-name="*** French Channels ***",*** French Channels ***
 https://www.facebook.com/237KlarTV/
 
-#EXTINF:-1 tvg-name="TV5 Monde" tvg-logo="http://senderlogos.images.dvbdata.com/302x190_w/260.png",TV5 Monde Amerique Latine
-http://dvb1.swh.gemedis.net:8003/TV5
-
-#EXTINF:-1 tvg-name="France 24 (FR)" tvg-logo="http://manager.ndasat.pro/picons/France24.png",France 24 (FR)
-http://dvb1.swh.gemedis.net:8003/France24_fr
-
-#EXTINF:-1 tvg-name="France 24 (EN)" tvg-logo="http://manager.ndasat.pro/picons/France24.png",France 24 (EN)
-http://dvb1.swh.gemedis.net:8003/France24_engl
-
 #EXTINF:-1 tvg-name="BFM TV" tvg-logo="http://manager.ndasat.pro/picons/1_0_19_206D_432_1_C00000_0_0_0.png",BFM TV
 https://stream-01.ix7.dailymotion.com/sec(4cextmXq8crpVEOecERE_uyhvoASjOBHrPHEYEuOayg)/dm/3/xgz4t1/d/live-2.m3u8
-
-#EXTINF:-1 tvg-name="CCTV (FR)" tvg-logo="http://www.bbox-actus.com/img/upload/crime-district.jpg",CCTV (FR)
-http://dvb1.swh.gemedis.net:8003/CCTV_fr
 
 
 
@@ -45,98 +33,20 @@ https://www.facebook.com/237KlarTV/
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-logo="http://www.daserste.de/specials/ueber-uns/logo-das-erste-108~_v-varl_94f212.jpg",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master_3744.m3u8
 
-#EXTINF:-1 tvg-name="Kabel1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kabel_eins_Logo_08.svg/652px-Kabel_eins_Logo_08.svg.png",Kabel1
-http://dvb1.swh.gemedis.net:8005/KABEL1
-
-#EXTINF:-1 tvg-name="ZDF HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
-http://dvb3.swh.gemedis.net:8001/ZDF
-
-#EXTINF:-1 tvg-name="Pro7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/ProSieben_HD_Logo_2015.svg/2000px-ProSieben_HD_Logo_2015.svg.png",Pro7
-http://dvb1.swh.gemedis.net:8005/Pro7
-
-#EXTINF:-1 tvg-name="Pro7 Maxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/2000px-ProSieben_MAXX_Logo.svg.png",Pro7 Maxx
-http://dvb1.swh.gemedis.net:8005/Pro7_Maxx
-
-#EXTINF:-1 tvg-name="VOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOX_Logo_2013.svg/2000px-VOX_Logo_2013.svg.png",VOX
-http://dvb3.swh.gemedis.net:8002/VOX
-
-#EXTINF:-1 tvg-name="RTL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_Logo_ab_dem_1._September_2017.png",RTL
-http://dvb3.swh.gemedis.net:8002/RTL
-
-#EXTINF:-1 tvg-name="RTL2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL2_Logo.svg/2000px-RTL2_Logo.svg.png",RTL2
-http://dvb3.swh.gemedis.net:8002/RTL2
-
-#EXTINF:-1 tvg-name="SAT.1" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2017/10/sat1-logo-rgb.jpg",SAT.1
-http://dvb1.swh.gemedis.net:8005/SAT.1
-
-#EXTINF:-1 tvg-name="SAT.1 Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sat1Gold.svg/2000px-Sat1Gold.svg.png",SAT.1 Gold
-http://dvb1.swh.gemedis.net:8005/SAT.1_Gold
-
-#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/734_300.png",DMAX
-http://dvb3.swh.gemedis.net:8006/DMAX
-
-#EXTINF:-1 tvg-name="KiKA" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
-http://dvb3.swh.gemedis.net:8001/KiKa
-
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png",Nickelodeon
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-b.m3u8
 
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",Disney Channel
 https://delivestream-lh.akamaihd.net/i/live_1@320996/master.m3u8?hdnts=st=1553952490~exp=1553952790~acl=/i/live_1@320996*~hmac=8f6cbc893073e545f7f212dd3a5db5884e570ed0e0736acdd67afe5abde5fc9a
 
-#EXTINF:-1 tvg-name="Bayern" tvg-logo="https://dcmworld.com/wp-content/uploads/2018/11/f1h99hbPR282fh9Pf1h2d.jpg",Bayern
-http://dvb1.swh.gemedis.net:8000/Bayern
-
-#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2000px-Euronews_2016_logo.svg.png",Euronews
-http://dvb3.swh.gemedis.net:8002/Euronews
-
-#EXTINF:-1 tvg-name="Hessen" tvg-logo="http://pix4.qmde.de/www.quotenmeter.de/pics/hr/logo/hrfernsehen_ox__W1000xh0.jpg",Hessen
-http://dvb1.swh.gemedis.net:8000/Hessen
-
-#EXTINF:-1 tvg-name="N24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/N24_logo.svg/2000px-N24_logo.svg.png",N24
-http://dvb1.swh.gemedis.net:8005/N24
-
-#EXTINF:-1 tvg-name="One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/2000px-One_TV_Logo.svg.png",One
-http://dvb1.swh.gemedis.net:8010/One
-
-#EXTINF:-1 tvg-name="Phoenix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Phoenix_Logo_2012.svg/2000px-Phoenix_Logo_2012.svg.png",Phoenix
-http://dvb1.swh.gemedis.net:8010/Phoenix
-
 #EXTINF:-1 tvg-name="3 Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3sat-Logo.svg/775px-3sat-Logo.svg.png",3 Sat
 https://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/index_1496_av-p.m3u8
-
-#EXTINF:-1 tvg-name="ARD Alpha" tvg-logo="https://cdn.pixabay.com/photo/2016/03/19/17/55/ard-1267087_960_720.png",ARD Alpha
-http://dvb1.swh.gemedis.net:8000/ARD
-
-#EXTINF:-1 tvg-name="Arte Deutsch" tvg-logo="http://manager.ndasat.pro/picons/ARTE.png",Arte Deutsch
-http://dvb1.swh.gemedis.net:8010/ARTE
-
-#EXTINF:-1 tvg-name="Suedwest-Baden" tvg-logo="https://www.ksc.de/fileadmin/user_upload/Baden_TV_Logo_2016_RGB.png",Suedwest-Baden
-http://dvb1.swh.gemedis.net:8000/Suedwest-Baden
-
-#EXTINF:-1 tvg-name="SuperRTL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_RTL_-_HD_Logo.svg/2000px-Super_RTL_-_HD_Logo.svg.png",SuperRTL
-http://dvb3.swh.gemedis.net:8002/SuperRTL
-
-#EXTINF:-1 tvg-name="Tagesschau24" tvg-logo="http://www.ard.de/image/538056/16x9/4788495590453078253/1280",Tagesschau24
-http://dvb1.swh.gemedis.net:8010/Tagesschau24
-
-#EXTINF:-1 tvg-name="Tele5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TELE_5_Logo.png/800px-TELE_5_Logo.png",Tele5
-http://dvb3.swh.gemedis.net:8006/Tele5
 
 #EXTINF:-1 tvg-name="Welt der Wunder" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png",Welt der Wunder
 http://live.vidoo.de/live/weltderwunder/master.m3u8
 
-#EXTINF:-1 tvg-name="ZDFneo" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneo.png",ZDFneo
-http://dvb3.swh.gemedis.net:8001/ZDF.neo
-
-#EXTINF:-1 tvg-name="ZDFinfo" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfo.png",ZDFinfo
-http://dvb3.swh.gemedis.net:8001/ZDF.info
-
 #EXTINF:-1 tvg-name="tagesschau24" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-
-#EXTINF:-1 tvg-name="WDR HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
-http://dvb1.swh.gemedis.net:8000/WDR
 
 #EXTINF:-1 tvg-name="Deutsche Welle" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
@@ -208,12 +118,6 @@ http://www.djing.com/tv/session_wild-edm.m3u8
 #EXTINF:-1 tvg-name="*** Sport Channels ***",*** Sport Channels ***
 https://www.facebook.com/237KlarTV/
 
-#EXTINF:-1 tvg-name="Sport1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Sport-1-Logo%2C_2013.svg",Sport1
-http://dvb3.swh.gemedis.net:8006/Sport1
-
-#EXTINF:-1 tvg-name="Eurosport" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg",Eurosport
-http://dvb3.swh.gemedis.net:8002/Eurosport
-
 #EXTINF:-1 tvg-name="Sky Sport News" tvg-logo="http://www.aptitudeforsoccer.com/wp-content/uploads/2014/09/sky-sports-news-UK-logo.png",Sky Sport News
 https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
 
@@ -239,15 +143,6 @@ https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-340
 
 #EXTINF:-1 tvg-name="*** News Channels ***",*** News Channels ***
 https://www.facebook.com/237KlarTV/
-
-#EXTINF:-1 tvg-name="CCTV9 Doku" tvg-logo="https://banner2.kisspng.com/20180706/ufl/kisspng-china-central-television-cctv-9-cctv-news-televisi-5b4039d686f749.9392219915309357665528.jpg",CCTV9 Doku
-http://dvb1.swh.gemedis.net:8003/CCTV9_Doku
-
-#EXTINF:-1 tvg-name="CCTV (EN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/CCTV-NEWS.png",CCTV (EN)
-http://dvb1.swh.gemedis.net:8003/CCTV_engl
-
-#EXTINF:-1 tvg-name="RT English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png",RT English
-http://dvb1.swh.gemedis.net:8003/RT_English
 
 #EXTINF:-1 tvg-name="CBS News" tvg-logo="http://www.oursoil.org/wp-content/uploads/2016/12/8356634_orig.jpg",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
